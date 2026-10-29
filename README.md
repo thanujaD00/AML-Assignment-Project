@@ -2,6 +2,8 @@
 
 Applied Machine Learning assignment — M.Sc. in Artificial Intelligence, University of Moratuwa.
 
+**Student:** T.D.B. Wickramasinghe (Index No. 269216X)
+
 This project predicts **next week's notified dengue cases for each of Sri Lanka's 26 RDHS health
 divisions**. It uses official surveillance data from the Epidemiology Unit's *Weekly Epidemiological
 Report* and **NGBoost** (Natural Gradient Boosting), a boosting algorithm that predicts a full

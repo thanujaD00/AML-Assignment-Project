@@ -1,7 +1,7 @@
 ---
 title: "Predicting Next-Week Dengue Cases in Sri Lankan Health Divisions with Natural Gradient Boosting (NGBoost)"
 subtitle: "Applied Machine Learning Assignment — M.Sc. in Artificial Intelligence, University of Moratuwa"
-author: "Thanuja"
+author: "T.D.B. Wickramasinghe — Index No. 269216X"
 date: "October 2026"
 ---
 
