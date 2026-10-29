@@ -1,0 +1,8 @@
+feature,label,mean_increase_MAE_log,std
+log_cases_t,Cases this week (log),0.07287,0.02049
+log_cases_t1,Cases last week (log),0.04973,0.02142
+growth_t,Division growth (log ratio),0.01044,0.00814
+log_hist_annual,Historical annual burden (log),0.00483,0.00431
+log_national_t,National cases this week (log),0.0,0.0
+national_growth_t,National growth (log ratio),0.0,0.0
+season_ratio_t,This week vs historical weekly mean (log ratio),-0.00137,0.00379

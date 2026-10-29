@@ -1,0 +1,6 @@
+reference,compared_with,mean_diff_MAE_log,ci95_low,ci95_high,divisions_where_reference_better,n_divisions
+"NGBoost (Normal, log-growth)","NGBoost (Poisson, counts)",0.0038,-0.0332,0.0444,13,26
+"NGBoost (Normal, log-growth)",Naive drift,-0.1309,-0.2213,-0.048,16,26
+"NGBoost (Normal, log-growth)",Naive persistence,-0.0714,-0.1293,0.0149,22,26
+"NGBoost (Normal, log-growth)",Random forest,0.0024,-0.0382,0.0522,10,26
+"NGBoost (Normal, log-growth)",Ridge regression,-0.1049,-0.1678,-0.031,21,26

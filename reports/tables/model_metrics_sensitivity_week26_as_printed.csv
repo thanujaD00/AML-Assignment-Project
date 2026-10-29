@@ -1,0 +1,13 @@
+week26_policy,model,split,n,MAE,RMSE,WAPE_%,MAE_log,R2_log,Bias,PI80_coverage_%,PI80_mean_width,PI90_coverage_%,PI90_mean_width
+as_printed,Naive persistence,validation,104,51.3173,95.2935,21.0533,0.2933,0.9164,26.0288,,,,
+as_printed,Naive persistence,test,52,40.5,69.3963,32.1674,0.3709,0.8899,36.7692,,,,
+as_printed,Naive drift,validation,104,81.5508,161.2543,33.4568,0.4684,0.7675,45.2498,,,,
+as_printed,Naive drift,test,52,27.2989,48.9943,21.6823,0.4304,0.8356,4.0756,,,,
+as_printed,Ridge regression,validation,104,62.3096,110.4015,25.5629,0.3277,0.9099,55.5216,,,,
+as_printed,Ridge regression,test,52,23.4238,38.1273,18.6045,0.303,0.9212,15.0193,,,,
+as_printed,Random forest,validation,104,57.3923,103.2917,23.5456,0.3278,0.8988,42.8089,,,,
+as_printed,Random forest,test,52,22.5721,37.5272,17.9281,0.2899,0.9281,14.8345,,,,
+as_printed,"NGBoost (Poisson, counts)",validation,104,55.0769,98.6681,22.5957,0.3508,0.8863,34.2645,23.0769,35.6731,29.8077,45.7308
+as_printed,"NGBoost (Poisson, counts)",test,52,27.3971,43.3446,21.7604,0.4203,0.8294,18.8812,34.6154,26.0769,38.4615,33.3654
+as_printed,"NGBoost (Normal, log-growth)",validation,104,68.6466,153.6331,28.1627,0.3282,0.8991,54.7925,58.6538,161.4093,67.3077,209.1096
+as_printed,"NGBoost (Normal, log-growth)",test,52,23.3576,38.0129,18.5519,0.3173,0.9137,15.4042,78.8462,98.3125,86.5385,127.8141

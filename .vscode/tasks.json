@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Setup: create venv + install", "type": "shell",
+      "windows": { "command": "py -3 -m venv .venv; .\\.venv\\Scripts\\python -m pip install --upgrade pip; .\\.venv\\Scripts\\python -m pip install -r requirements.txt; .\\.venv\\Scripts\\python -m pip install -e ." },
+      "linux":   { "command": "python3 -m venv .venv && .venv/bin/pip install -r requirements.txt && .venv/bin/pip install -e ." },
+      "osx":     { "command": "python3 -m venv .venv && .venv/bin/pip install -r requirements.txt && .venv/bin/pip install -e ." },
+      "problemMatcher": [] },
+    { "label": "Run pipeline", "type": "shell", "command": "python scripts/run_pipeline.py", "problemMatcher": [] },
+    { "label": "Run Streamlit app", "type": "shell", "command": "streamlit run app/streamlit_app.py", "problemMatcher": [] },
+    { "label": "Run tests", "type": "shell", "command": "python -m pytest -q", "problemMatcher": [] },
+    { "label": "Build report PDF", "type": "shell", "command": "python scripts/build_report.py", "problemMatcher": [] }
+  ]
+}

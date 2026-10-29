@@ -1,0 +1,261 @@
+week_end,division,cases,ytd_cases,epi_week_2026,quality_flag
+2026-06-14,Ampara RDHS,2,250,24,suspected_misaligned_division_counts
+2026-06-21,Ampara RDHS,32,282,25,ok
+2026-06-28,Ampara RDHS,32,314,26,source_reprinted_previous_week
+2026-07-05,Ampara RDHS,56,370,27,ok
+2026-07-12,Ampara RDHS,64,434,28,ok
+2026-07-19,Ampara RDHS,77,511,29,ok
+2026-07-26,Ampara RDHS,36,547,30,ok
+2026-08-02,Ampara RDHS,42,589,31,ok
+2026-08-09,Ampara RDHS,21,610,32,ok
+2026-08-16,Ampara RDHS,15,625,33,ok
+2026-06-14,Anuradhapura,3,360,24,suspected_misaligned_division_counts
+2026-06-21,Anuradhapura,51,411,25,ok
+2026-06-28,Anuradhapura,51,462,26,source_reprinted_previous_week
+2026-07-05,Anuradhapura,80,542,27,ok
+2026-07-12,Anuradhapura,146,688,28,ok
+2026-07-19,Anuradhapura,118,806,29,ok
+2026-07-26,Anuradhapura,89,895,30,ok
+2026-08-02,Anuradhapura,56,951,31,ok
+2026-08-09,Anuradhapura,52,1003,32,ok
+2026-08-16,Anuradhapura,57,1060,33,ok
+2026-06-14,Badulla,34,536,24,suspected_misaligned_division_counts
+2026-06-21,Badulla,115,651,25,ok
+2026-06-28,Badulla,115,766,26,source_reprinted_previous_week
+2026-07-05,Badulla,136,902,27,ok
+2026-07-12,Badulla,180,1082,28,ok
+2026-07-19,Badulla,164,1246,29,ok
+2026-07-26,Badulla,174,1420,30,ok
+2026-08-02,Badulla,116,1536,31,ok
+2026-08-09,Badulla,86,1622,32,ok
+2026-08-16,Badulla,55,1677,33,ok
+2026-06-14,Batticaloa,89,1060,24,suspected_misaligned_division_counts
+2026-06-21,Batticaloa,52,1112,25,ok
+2026-06-28,Batticaloa,52,1164,26,source_reprinted_previous_week
+2026-07-05,Batticaloa,76,1240,27,ok
+2026-07-12,Batticaloa,60,1300,28,ok
+2026-07-19,Batticaloa,44,1344,29,ok
+2026-07-26,Batticaloa,56,1400,30,ok
+2026-08-02,Batticaloa,44,1444,31,ok
+2026-08-09,Batticaloa,40,1484,32,ok
+2026-08-16,Batticaloa,27,1511,33,ok
+2026-06-14,Colombo,20,8219,24,suspected_misaligned_division_counts
+2026-06-21,Colombo,1138,9357,25,ok
+2026-06-28,Colombo,1138,10495,26,source_reprinted_previous_week
+2026-07-05,Colombo,1264,11759,27,ok
+2026-07-12,Colombo,1625,13384,28,ok
+2026-07-19,Colombo,1330,14714,29,ok
+2026-07-26,Colombo,1374,16088,30,ok
+2026-08-02,Colombo,993,17081,31,ok
+2026-08-09,Colombo,799,17880,32,ok
+2026-08-16,Colombo,584,18464,33,ok
+2026-06-14,Galle,742,3289,24,suspected_misaligned_division_counts
+2026-06-21,Galle,281,3570,25,ok
+2026-06-28,Galle,281,3851,26,source_reprinted_previous_week
+2026-07-05,Galle,404,4255,27,ok
+2026-07-12,Galle,431,4686,28,ok
+2026-07-19,Galle,379,5065,29,ok
+2026-07-26,Galle,308,5373,30,ok
+2026-08-02,Galle,263,5636,31,ok
+2026-08-09,Galle,203,5839,32,ok
+2026-08-16,Galle,144,5983,33,ok
+2026-06-14,Gampaha,24,5514,24,suspected_misaligned_division_counts
+2026-06-21,Gampaha,1294,6808,25,ok
+2026-06-28,Gampaha,1294,8102,26,source_reprinted_previous_week
+2026-07-05,Gampaha,1439,9541,27,ok
+2026-07-12,Gampaha,1224,10765,28,ok
+2026-07-19,Gampaha,1501,12266,29,ok
+2026-07-26,Gampaha,1320,13586,30,ok
+2026-08-02,Gampaha,922,14508,31,ok
+2026-08-09,Gampaha,720,15228,32,ok
+2026-08-16,Gampaha,567,15795,33,ok
+2026-06-14,Hambantota,119,1211,24,suspected_misaligned_division_counts
+2026-06-21,Hambantota,192,1403,25,ok
+2026-06-28,Hambantota,192,1595,26,source_reprinted_previous_week
+2026-07-05,Hambantota,233,1828,27,ok
+2026-07-12,Hambantota,226,2054,28,ok
+2026-07-19,Hambantota,215,2269,29,ok
+2026-07-26,Hambantota,122,2391,30,ok
+2026-08-02,Hambantota,114,2505,31,ok
+2026-08-09,Hambantota,103,2608,32,ok
+2026-08-16,Hambantota,80,2688,33,ok
+2026-06-14,Jaffna,14,687,24,suspected_misaligned_division_counts
+2026-06-21,Jaffna,24,711,25,ok
+2026-06-28,Jaffna,24,735,26,source_reprinted_previous_week
+2026-07-05,Jaffna,49,784,27,ok
+2026-07-12,Jaffna,46,830,28,ok
+2026-07-19,Jaffna,54,884,29,ok
+2026-07-26,Jaffna,35,919,30,ok
+2026-08-02,Jaffna,38,957,31,ok
+2026-08-09,Jaffna,45,1002,32,ok
+2026-08-16,Jaffna,9,1011,33,ok
+2026-06-14,Kalmunai RDHS,8,603,24,suspected_misaligned_division_counts
+2026-06-21,Kalmunai RDHS,37,640,25,ok
+2026-06-28,Kalmunai RDHS,37,677,26,source_reprinted_previous_week
+2026-07-05,Kalmunai RDHS,65,742,27,ok
+2026-07-12,Kalmunai RDHS,61,803,28,ok
+2026-07-19,Kalmunai RDHS,46,849,29,ok
+2026-07-26,Kalmunai RDHS,43,892,30,ok
+2026-08-02,Kalmunai RDHS,35,927,31,ok
+2026-08-09,Kalmunai RDHS,37,964,32,ok
+2026-08-16,Kalmunai RDHS,55,1019,33,ok
+2026-06-14,Kalutara,53,2766,24,suspected_misaligned_division_counts
+2026-06-21,Kalutara,551,3317,25,ok
+2026-06-28,Kalutara,551,3868,26,source_reprinted_previous_week
+2026-07-05,Kalutara,866,4734,27,ok
+2026-07-12,Kalutara,644,5378,28,ok
+2026-07-19,Kalutara,592,5970,29,ok
+2026-07-26,Kalutara,499,6469,30,ok
+2026-08-02,Kalutara,379,6848,31,ok
+2026-08-09,Kalutara,406,7254,32,ok
+2026-08-16,Kalutara,186,7440,33,ok
+2026-06-14,Kandy,47,2021,24,suspected_misaligned_division_counts
+2026-06-21,Kandy,472,2493,25,ok
+2026-06-28,Kandy,472,2965,26,source_reprinted_previous_week
+2026-07-05,Kandy,663,3628,27,ok
+2026-07-12,Kandy,555,4183,28,ok
+2026-07-19,Kandy,681,4864,29,ok
+2026-07-26,Kandy,567,5431,30,ok
+2026-08-02,Kandy,428,5859,31,ok
+2026-08-09,Kandy,380,6239,32,ok
+2026-08-16,Kandy,288,6527,33,ok
+2026-06-14,Kegalle,25,1120,24,suspected_misaligned_division_counts
+2026-06-21,Kegalle,187,1307,25,ok
+2026-06-28,Kegalle,187,1494,26,source_reprinted_previous_week
+2026-07-05,Kegalle,189,1683,27,ok
+2026-07-12,Kegalle,203,1886,28,ok
+2026-07-19,Kegalle,247,2133,29,ok
+2026-07-26,Kegalle,201,2334,30,ok
+2026-08-02,Kegalle,161,2495,31,ok
+2026-08-09,Kegalle,141,2636,32,ok
+2026-08-16,Kegalle,99,2735,33,ok
+2026-06-14,Kilinochchi,419,592,24,suspected_misaligned_division_counts
+2026-06-21,Kilinochchi,6,598,25,ok
+2026-06-28,Kilinochchi,6,604,26,source_reprinted_previous_week
+2026-07-05,Kilinochchi,2,606,27,ok
+2026-07-12,Kilinochchi,17,623,28,ok
+2026-07-19,Kilinochchi,4,627,29,ok
+2026-07-26,Kilinochchi,8,635,30,ok
+2026-08-02,Kilinochchi,2,637,31,ok
+2026-08-09,Kilinochchi,2,639,32,ok
+2026-08-16,Kilinochchi,5,644,33,ok
+2026-06-14,Kurunegala,423,1449,24,suspected_misaligned_division_counts
+2026-06-21,Kurunegala,218,1667,25,ok
+2026-06-28,Kurunegala,218,1885,26,source_reprinted_previous_week
+2026-07-05,Kurunegala,295,2180,27,ok
+2026-07-12,Kurunegala,262,2442,28,ok
+2026-07-19,Kurunegala,266,2708,29,ok
+2026-07-26,Kurunegala,235,2943,30,ok
+2026-08-02,Kurunegala,171,3114,31,ok
+2026-08-09,Kurunegala,132,3246,32,ok
+2026-08-16,Kurunegala,106,3352,33,ok
+2026-06-14,Mannar,387,483,24,suspected_misaligned_division_counts
+2026-06-21,Mannar,5,488,25,ok
+2026-06-28,Mannar,5,493,26,source_reprinted_previous_week
+2026-07-05,Mannar,6,499,27,ok
+2026-07-12,Mannar,11,510,28,ok
+2026-07-19,Mannar,13,523,29,ok
+2026-07-26,Mannar,4,527,30,ok
+2026-08-02,Mannar,4,531,31,ok
+2026-08-09,Mannar,1,532,32,ok
+2026-08-16,Mannar,1,533,33,ok
+2026-06-14,Matale,889,1640,24,suspected_misaligned_division_counts
+2026-06-21,Matale,49,1689,25,ok
+2026-06-28,Matale,49,1738,26,source_reprinted_previous_week
+2026-07-05,Matale,81,1819,27,ok
+2026-07-12,Matale,89,1908,28,ok
+2026-07-19,Matale,85,1993,29,ok
+2026-07-26,Matale,70,2063,30,ok
+2026-08-02,Matale,38,2101,31,ok
+2026-08-09,Matale,57,2158,32,ok
+2026-08-16,Matale,32,2190,33,ok
+2026-06-14,Matara,21,2672,24,suspected_misaligned_division_counts
+2026-06-21,Matara,449,3121,25,ok
+2026-06-28,Matara,449,3570,26,source_reprinted_previous_week
+2026-07-05,Matara,655,4225,27,ok
+2026-07-12,Matara,615,4840,28,ok
+2026-07-19,Matara,552,5392,29,ok
+2026-07-26,Matara,380,5772,30,ok
+2026-08-02,Matara,275,6047,31,ok
+2026-08-09,Matara,204,6251,32,ok
+2026-08-16,Matara,114,6365,33,ok
+2026-06-14,Moneragala,65,544,24,suspected_misaligned_division_counts
+2026-06-21,Moneragala,91,635,25,ok
+2026-06-28,Moneragala,91,726,26,source_reprinted_previous_week
+2026-07-05,Moneragala,99,825,27,ok
+2026-07-12,Moneragala,99,924,28,ok
+2026-07-19,Moneragala,106,1030,29,ok
+2026-07-26,Moneragala,74,1104,30,ok
+2026-08-02,Moneragala,69,1173,31,ok
+2026-08-09,Moneragala,43,1216,32,ok
+2026-08-16,Moneragala,33,1249,33,ok
+2026-06-14,Mullaitivu,2,56,24,suspected_misaligned_division_counts
+2026-06-21,Mullaitivu,3,59,25,ok
+2026-06-28,Mullaitivu,3,62,26,source_reprinted_previous_week
+2026-07-05,Mullaitivu,2,64,27,ok
+2026-07-12,Mullaitivu,9,73,28,ok
+2026-07-19,Mullaitivu,5,78,29,ok
+2026-07-26,Mullaitivu,8,86,30,ok
+2026-08-02,Mullaitivu,5,91,31,ok
+2026-08-09,Mullaitivu,6,97,32,ok
+2026-08-16,Mullaitivu,2,99,33,ok
+2026-06-14,Nuwara Eliya,154,459,24,suspected_misaligned_division_counts
+2026-06-21,Nuwara Eliya,66,525,25,ok
+2026-06-28,Nuwara Eliya,66,591,26,source_reprinted_previous_week
+2026-07-05,Nuwara Eliya,64,655,27,ok
+2026-07-12,Nuwara Eliya,68,723,28,ok
+2026-07-19,Nuwara Eliya,112,835,29,ok
+2026-07-26,Nuwara Eliya,78,913,30,ok
+2026-08-02,Nuwara Eliya,62,975,31,ok
+2026-08-09,Nuwara Eliya,41,1016,32,ok
+2026-08-16,Nuwara Eliya,36,1052,33,ok
+2026-06-14,Polonnaruwa,23,309,24,suspected_misaligned_division_counts
+2026-06-21,Polonnaruwa,63,372,25,ok
+2026-06-28,Polonnaruwa,63,435,26,source_reprinted_previous_week
+2026-07-05,Polonnaruwa,88,523,27,ok
+2026-07-12,Polonnaruwa,79,602,28,ok
+2026-07-19,Polonnaruwa,64,666,29,ok
+2026-07-26,Polonnaruwa,53,719,30,ok
+2026-08-02,Polonnaruwa,35,754,31,ok
+2026-08-09,Polonnaruwa,47,801,32,ok
+2026-08-16,Polonnaruwa,9,810,33,ok
+2026-06-14,Puttalam,29,565,24,suspected_misaligned_division_counts
+2026-06-21,Puttalam,148,713,25,ok
+2026-06-28,Puttalam,148,861,26,source_reprinted_previous_week
+2026-07-05,Puttalam,137,998,27,ok
+2026-07-12,Puttalam,180,1178,28,ok
+2026-07-19,Puttalam,163,1341,29,ok
+2026-07-26,Puttalam,171,1512,30,ok
+2026-08-02,Puttalam,139,1651,31,ok
+2026-08-09,Puttalam,101,1752,32,ok
+2026-08-16,Puttalam,73,1825,33,ok
+2026-06-14,Ratnapura,228,2892,24,suspected_misaligned_division_counts
+2026-06-21,Ratnapura,264,3156,25,ok
+2026-06-28,Ratnapura,264,3420,26,source_reprinted_previous_week
+2026-07-05,Ratnapura,319,3739,27,ok
+2026-07-12,Ratnapura,386,4125,28,ok
+2026-07-19,Ratnapura,315,4440,29,ok
+2026-07-26,Ratnapura,302,4742,30,ok
+2026-08-02,Ratnapura,175,4917,31,ok
+2026-08-09,Ratnapura,174,5091,32,ok
+2026-08-16,Ratnapura,92,5183,33,ok
+2026-06-14,Trincomalee,39,524,24,suspected_misaligned_division_counts
+2026-06-21,Trincomalee,32,556,25,ok
+2026-06-28,Trincomalee,32,588,26,source_reprinted_previous_week
+2026-07-05,Trincomalee,24,612,27,ok
+2026-07-12,Trincomalee,31,643,28,ok
+2026-07-19,Trincomalee,25,668,29,ok
+2026-07-26,Trincomalee,23,691,30,ok
+2026-08-02,Trincomalee,23,714,31,ok
+2026-08-09,Trincomalee,16,730,32,ok
+2026-08-16,Trincomalee,5,735,33,ok
+2026-06-14,Vavuniya,114,230,24,suspected_misaligned_division_counts
+2026-06-21,Vavuniya,8,238,25,ok
+2026-06-28,Vavuniya,8,246,26,source_reprinted_previous_week
+2026-07-05,Vavuniya,9,255,27,ok
+2026-07-12,Vavuniya,29,284,28,ok
+2026-07-19,Vavuniya,12,296,29,ok
+2026-07-26,Vavuniya,16,312,30,ok
+2026-08-02,Vavuniya,5,317,31,ok
+2026-08-09,Vavuniya,8,325,32,ok
+2026-08-16,Vavuniya,8,333,33,ok

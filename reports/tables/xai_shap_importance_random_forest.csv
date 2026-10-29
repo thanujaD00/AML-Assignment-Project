@@ -1,0 +1,8 @@
+feature,label,mean_abs_shap
+growth_t,Division growth (log ratio),0.11009
+log_national_t,National cases this week (log),0.10703
+log_cases_t,Cases this week (log),0.06416
+log_hist_annual,Historical annual burden (log),0.04472
+log_cases_t1,Cases last week (log),0.03787
+season_ratio_t,This week vs historical weekly mean (log ratio),0.02659
+national_growth_t,National growth (log ratio),0.00694

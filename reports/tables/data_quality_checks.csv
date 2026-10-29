@@ -1,0 +1,7 @@
+check,passed,detail
+raw file SHA-256 matches published hash,True,9f075df094ad55691bb07d0d1a594f047d719ee1dc637f8acc244e739a3f70bb
+division counts sum to national total (all weeks),True,max abs diff = 0
+YTD increments equal weekly counts (weeks 25-33),True,max abs diff = 0
+no missing weekly values,True,0 missing
+no negative counts,True,min = 1
+no week identical to the previous week,False,2026-06-28

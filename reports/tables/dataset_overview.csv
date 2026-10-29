@@ -1,0 +1,7 @@
+measure,rows,divisions,first_date,last_date,distinct_dates
+"Dengue, cases notified in the week",270,27,2026-06-14,2026-08-16,10
+"Dengue, cases notified in weeks 1 to 52",81,27,2023-12-29,2025-12-26,3
+"Dengue, cases notified this year to date",270,27,2026-06-14,2026-08-16,10
+"Leptospirosis, cases notified in the week",270,27,2026-06-14,2026-08-16,10
+"Leptospirosis, cases notified in weeks 1 to 52",81,27,2023-12-29,2025-12-26,3
+"Leptospirosis, cases notified this year to date",270,27,2026-06-14,2026-08-16,10

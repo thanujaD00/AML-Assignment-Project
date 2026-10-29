@@ -1,0 +1,4 @@
+feature_set,n_features,MAE,RMSE,WAPE_%,MAE_log,R2_log,Bias
+All features,7,20.43,33.0891,16.2267,0.2995,0.9188,10.0113
+Without national features,5,26.9689,43.8276,21.4202,0.3339,0.9058,19.6698
+Division lags only,3,23.8155,38.7423,18.9156,0.3063,0.9209,15.723

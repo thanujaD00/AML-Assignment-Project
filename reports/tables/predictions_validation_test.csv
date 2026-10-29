@@ -1,0 +1,781 @@
+division,week_end,target_week_end,cases_t,y_next,y_hat,n_train,split,model,lo80,hi80,lo90,hi90
+Ampara RDHS,2026-07-12,2026-07-19,64.0,77.0,64.0,26,validation,Naive persistence,,,,
+Anuradhapura,2026-07-12,2026-07-19,146.0,118.0,146.0,26,validation,Naive persistence,,,,
+Badulla,2026-07-12,2026-07-19,180.0,164.0,180.0,26,validation,Naive persistence,,,,
+Batticaloa,2026-07-12,2026-07-19,60.0,44.0,60.0,26,validation,Naive persistence,,,,
+Colombo,2026-07-12,2026-07-19,1625.0,1330.0,1625.0,26,validation,Naive persistence,,,,
+Galle,2026-07-12,2026-07-19,431.0,379.0,431.0,26,validation,Naive persistence,,,,
+Gampaha,2026-07-12,2026-07-19,1224.0,1501.0,1224.0,26,validation,Naive persistence,,,,
+Hambantota,2026-07-12,2026-07-19,226.0,215.0,226.0,26,validation,Naive persistence,,,,
+Jaffna,2026-07-12,2026-07-19,46.0,54.0,46.0,26,validation,Naive persistence,,,,
+Kalmunai RDHS,2026-07-12,2026-07-19,61.0,46.0,61.0,26,validation,Naive persistence,,,,
+Kalutara,2026-07-12,2026-07-19,644.0,592.0,644.0,26,validation,Naive persistence,,,,
+Kandy,2026-07-12,2026-07-19,555.0,681.0,555.0,26,validation,Naive persistence,,,,
+Kegalle,2026-07-12,2026-07-19,203.0,247.0,203.0,26,validation,Naive persistence,,,,
+Kilinochchi,2026-07-12,2026-07-19,17.0,4.0,17.0,26,validation,Naive persistence,,,,
+Kurunegala,2026-07-12,2026-07-19,262.0,266.0,262.0,26,validation,Naive persistence,,,,
+Mannar,2026-07-12,2026-07-19,11.0,13.0,11.0,26,validation,Naive persistence,,,,
+Matale,2026-07-12,2026-07-19,89.0,85.0,89.0,26,validation,Naive persistence,,,,
+Matara,2026-07-12,2026-07-19,615.0,552.0,615.0,26,validation,Naive persistence,,,,
+Moneragala,2026-07-12,2026-07-19,99.0,106.0,99.0,26,validation,Naive persistence,,,,
+Mullaitivu,2026-07-12,2026-07-19,9.0,5.0,9.0,26,validation,Naive persistence,,,,
+Nuwara Eliya,2026-07-12,2026-07-19,68.0,112.0,68.0,26,validation,Naive persistence,,,,
+Polonnaruwa,2026-07-12,2026-07-19,79.0,64.0,79.0,26,validation,Naive persistence,,,,
+Puttalam,2026-07-12,2026-07-19,180.0,163.0,180.0,26,validation,Naive persistence,,,,
+Ratnapura,2026-07-12,2026-07-19,386.0,315.0,386.0,26,validation,Naive persistence,,,,
+Trincomalee,2026-07-12,2026-07-19,31.0,25.0,31.0,26,validation,Naive persistence,,,,
+Vavuniya,2026-07-12,2026-07-19,29.0,12.0,29.0,26,validation,Naive persistence,,,,
+Ampara RDHS,2026-07-19,2026-07-26,77.0,36.0,77.0,52,validation,Naive persistence,,,,
+Anuradhapura,2026-07-19,2026-07-26,118.0,89.0,118.0,52,validation,Naive persistence,,,,
+Badulla,2026-07-19,2026-07-26,164.0,174.0,164.0,52,validation,Naive persistence,,,,
+Batticaloa,2026-07-19,2026-07-26,44.0,56.0,44.0,52,validation,Naive persistence,,,,
+Colombo,2026-07-19,2026-07-26,1330.0,1374.0,1330.0,52,validation,Naive persistence,,,,
+Galle,2026-07-19,2026-07-26,379.0,308.0,379.0,52,validation,Naive persistence,,,,
+Gampaha,2026-07-19,2026-07-26,1501.0,1320.0,1501.0,52,validation,Naive persistence,,,,
+Hambantota,2026-07-19,2026-07-26,215.0,122.0,215.0,52,validation,Naive persistence,,,,
+Jaffna,2026-07-19,2026-07-26,54.0,35.0,54.0,52,validation,Naive persistence,,,,
+Kalmunai RDHS,2026-07-19,2026-07-26,46.0,43.0,46.0,52,validation,Naive persistence,,,,
+Kalutara,2026-07-19,2026-07-26,592.0,499.0,592.0,52,validation,Naive persistence,,,,
+Kandy,2026-07-19,2026-07-26,681.0,567.0,681.0,52,validation,Naive persistence,,,,
+Kegalle,2026-07-19,2026-07-26,247.0,201.0,247.0,52,validation,Naive persistence,,,,
+Kilinochchi,2026-07-19,2026-07-26,4.0,8.0,4.0,52,validation,Naive persistence,,,,
+Kurunegala,2026-07-19,2026-07-26,266.0,235.0,266.0,52,validation,Naive persistence,,,,
+Mannar,2026-07-19,2026-07-26,13.0,4.0,13.0,52,validation,Naive persistence,,,,
+Matale,2026-07-19,2026-07-26,85.0,70.0,85.0,52,validation,Naive persistence,,,,
+Matara,2026-07-19,2026-07-26,552.0,380.0,552.0,52,validation,Naive persistence,,,,
+Moneragala,2026-07-19,2026-07-26,106.0,74.0,106.0,52,validation,Naive persistence,,,,
+Mullaitivu,2026-07-19,2026-07-26,5.0,8.0,5.0,52,validation,Naive persistence,,,,
+Nuwara Eliya,2026-07-19,2026-07-26,112.0,78.0,112.0,52,validation,Naive persistence,,,,
+Polonnaruwa,2026-07-19,2026-07-26,64.0,53.0,64.0,52,validation,Naive persistence,,,,
+Puttalam,2026-07-19,2026-07-26,163.0,171.0,163.0,52,validation,Naive persistence,,,,
+Ratnapura,2026-07-19,2026-07-26,315.0,302.0,315.0,52,validation,Naive persistence,,,,
+Trincomalee,2026-07-19,2026-07-26,25.0,23.0,25.0,52,validation,Naive persistence,,,,
+Vavuniya,2026-07-19,2026-07-26,12.0,16.0,12.0,52,validation,Naive persistence,,,,
+Ampara RDHS,2026-07-26,2026-08-02,36.0,42.0,36.0,78,validation,Naive persistence,,,,
+Anuradhapura,2026-07-26,2026-08-02,89.0,56.0,89.0,78,validation,Naive persistence,,,,
+Badulla,2026-07-26,2026-08-02,174.0,116.0,174.0,78,validation,Naive persistence,,,,
+Batticaloa,2026-07-26,2026-08-02,56.0,44.0,56.0,78,validation,Naive persistence,,,,
+Colombo,2026-07-26,2026-08-02,1374.0,993.0,1374.0,78,validation,Naive persistence,,,,
+Galle,2026-07-26,2026-08-02,308.0,263.0,308.0,78,validation,Naive persistence,,,,
+Gampaha,2026-07-26,2026-08-02,1320.0,922.0,1320.0,78,validation,Naive persistence,,,,
+Hambantota,2026-07-26,2026-08-02,122.0,114.0,122.0,78,validation,Naive persistence,,,,
+Jaffna,2026-07-26,2026-08-02,35.0,38.0,35.0,78,validation,Naive persistence,,,,
+Kalmunai RDHS,2026-07-26,2026-08-02,43.0,35.0,43.0,78,validation,Naive persistence,,,,
+Kalutara,2026-07-26,2026-08-02,499.0,379.0,499.0,78,validation,Naive persistence,,,,
+Kandy,2026-07-26,2026-08-02,567.0,428.0,567.0,78,validation,Naive persistence,,,,
+Kegalle,2026-07-26,2026-08-02,201.0,161.0,201.0,78,validation,Naive persistence,,,,
+Kilinochchi,2026-07-26,2026-08-02,8.0,2.0,8.0,78,validation,Naive persistence,,,,
+Kurunegala,2026-07-26,2026-08-02,235.0,171.0,235.0,78,validation,Naive persistence,,,,
+Mannar,2026-07-26,2026-08-02,4.0,4.0,4.0,78,validation,Naive persistence,,,,
+Matale,2026-07-26,2026-08-02,70.0,38.0,70.0,78,validation,Naive persistence,,,,
+Matara,2026-07-26,2026-08-02,380.0,275.0,380.0,78,validation,Naive persistence,,,,
+Moneragala,2026-07-26,2026-08-02,74.0,69.0,74.0,78,validation,Naive persistence,,,,
+Mullaitivu,2026-07-26,2026-08-02,8.0,5.0,8.0,78,validation,Naive persistence,,,,
+Nuwara Eliya,2026-07-26,2026-08-02,78.0,62.0,78.0,78,validation,Naive persistence,,,,
+Polonnaruwa,2026-07-26,2026-08-02,53.0,35.0,53.0,78,validation,Naive persistence,,,,
+Puttalam,2026-07-26,2026-08-02,171.0,139.0,171.0,78,validation,Naive persistence,,,,
+Ratnapura,2026-07-26,2026-08-02,302.0,175.0,302.0,78,validation,Naive persistence,,,,
+Trincomalee,2026-07-26,2026-08-02,23.0,23.0,23.0,78,validation,Naive persistence,,,,
+Vavuniya,2026-07-26,2026-08-02,16.0,5.0,16.0,78,validation,Naive persistence,,,,
+Ampara RDHS,2026-08-02,2026-08-09,42.0,21.0,42.0,104,test,Naive persistence,,,,
+Anuradhapura,2026-08-02,2026-08-09,56.0,52.0,56.0,104,test,Naive persistence,,,,
+Badulla,2026-08-02,2026-08-09,116.0,86.0,116.0,104,test,Naive persistence,,,,
+Batticaloa,2026-08-02,2026-08-09,44.0,40.0,44.0,104,test,Naive persistence,,,,
+Colombo,2026-08-02,2026-08-09,993.0,799.0,993.0,104,test,Naive persistence,,,,
+Galle,2026-08-02,2026-08-09,263.0,203.0,263.0,104,test,Naive persistence,,,,
+Gampaha,2026-08-02,2026-08-09,922.0,720.0,922.0,104,test,Naive persistence,,,,
+Hambantota,2026-08-02,2026-08-09,114.0,103.0,114.0,104,test,Naive persistence,,,,
+Jaffna,2026-08-02,2026-08-09,38.0,45.0,38.0,104,test,Naive persistence,,,,
+Kalmunai RDHS,2026-08-02,2026-08-09,35.0,37.0,35.0,104,test,Naive persistence,,,,
+Kalutara,2026-08-02,2026-08-09,379.0,406.0,379.0,104,test,Naive persistence,,,,
+Kandy,2026-08-02,2026-08-09,428.0,380.0,428.0,104,test,Naive persistence,,,,
+Kegalle,2026-08-02,2026-08-09,161.0,141.0,161.0,104,test,Naive persistence,,,,
+Kilinochchi,2026-08-02,2026-08-09,2.0,2.0,2.0,104,test,Naive persistence,,,,
+Kurunegala,2026-08-02,2026-08-09,171.0,132.0,171.0,104,test,Naive persistence,,,,
+Mannar,2026-08-02,2026-08-09,4.0,1.0,4.0,104,test,Naive persistence,,,,
+Matale,2026-08-02,2026-08-09,38.0,57.0,38.0,104,test,Naive persistence,,,,
+Matara,2026-08-02,2026-08-09,275.0,204.0,275.0,104,test,Naive persistence,,,,
+Moneragala,2026-08-02,2026-08-09,69.0,43.0,69.0,104,test,Naive persistence,,,,
+Mullaitivu,2026-08-02,2026-08-09,5.0,6.0,5.0,104,test,Naive persistence,,,,
+Nuwara Eliya,2026-08-02,2026-08-09,62.0,41.0,62.0,104,test,Naive persistence,,,,
+Polonnaruwa,2026-08-02,2026-08-09,35.0,47.0,35.0,104,test,Naive persistence,,,,
+Puttalam,2026-08-02,2026-08-09,139.0,101.0,139.0,104,test,Naive persistence,,,,
+Ratnapura,2026-08-02,2026-08-09,175.0,174.0,175.0,104,test,Naive persistence,,,,
+Trincomalee,2026-08-02,2026-08-09,23.0,16.0,23.0,104,test,Naive persistence,,,,
+Vavuniya,2026-08-02,2026-08-09,5.0,8.0,5.0,104,test,Naive persistence,,,,
+Ampara RDHS,2026-08-09,2026-08-16,21.0,15.0,21.0,130,test,Naive persistence,,,,
+Anuradhapura,2026-08-09,2026-08-16,52.0,57.0,52.0,130,test,Naive persistence,,,,
+Badulla,2026-08-09,2026-08-16,86.0,55.0,86.0,130,test,Naive persistence,,,,
+Batticaloa,2026-08-09,2026-08-16,40.0,27.0,40.0,130,test,Naive persistence,,,,
+Colombo,2026-08-09,2026-08-16,799.0,584.0,799.0,130,test,Naive persistence,,,,
+Galle,2026-08-09,2026-08-16,203.0,144.0,203.0,130,test,Naive persistence,,,,
+Gampaha,2026-08-09,2026-08-16,720.0,567.0,720.0,130,test,Naive persistence,,,,
+Hambantota,2026-08-09,2026-08-16,103.0,80.0,103.0,130,test,Naive persistence,,,,
+Jaffna,2026-08-09,2026-08-16,45.0,9.0,45.0,130,test,Naive persistence,,,,
+Kalmunai RDHS,2026-08-09,2026-08-16,37.0,55.0,37.0,130,test,Naive persistence,,,,
+Kalutara,2026-08-09,2026-08-16,406.0,186.0,406.0,130,test,Naive persistence,,,,
+Kandy,2026-08-09,2026-08-16,380.0,288.0,380.0,130,test,Naive persistence,,,,
+Kegalle,2026-08-09,2026-08-16,141.0,99.0,141.0,130,test,Naive persistence,,,,
+Kilinochchi,2026-08-09,2026-08-16,2.0,5.0,2.0,130,test,Naive persistence,,,,
+Kurunegala,2026-08-09,2026-08-16,132.0,106.0,132.0,130,test,Naive persistence,,,,
+Mannar,2026-08-09,2026-08-16,1.0,1.0,1.0,130,test,Naive persistence,,,,
+Matale,2026-08-09,2026-08-16,57.0,32.0,57.0,130,test,Naive persistence,,,,
+Matara,2026-08-09,2026-08-16,204.0,114.0,204.0,130,test,Naive persistence,,,,
+Moneragala,2026-08-09,2026-08-16,43.0,33.0,43.0,130,test,Naive persistence,,,,
+Mullaitivu,2026-08-09,2026-08-16,6.0,2.0,6.0,130,test,Naive persistence,,,,
+Nuwara Eliya,2026-08-09,2026-08-16,41.0,36.0,41.0,130,test,Naive persistence,,,,
+Polonnaruwa,2026-08-09,2026-08-16,47.0,9.0,47.0,130,test,Naive persistence,,,,
+Puttalam,2026-08-09,2026-08-16,101.0,73.0,101.0,130,test,Naive persistence,,,,
+Ratnapura,2026-08-09,2026-08-16,174.0,92.0,174.0,130,test,Naive persistence,,,,
+Trincomalee,2026-08-09,2026-08-16,16.0,5.0,16.0,130,test,Naive persistence,,,,
+Vavuniya,2026-08-09,2026-08-16,8.0,8.0,8.0,130,test,Naive persistence,,,,
+Ampara RDHS,2026-07-12,2026-07-19,64.0,77.0,73.1228070175438,26,validation,Naive drift,,,,
+Anuradhapura,2026-07-12,2026-07-19,146.0,118.0,265.77777777777754,26,validation,Naive drift,,,,
+Badulla,2026-07-12,2026-07-19,180.0,164.0,238.13138686131398,26,validation,Naive drift,,,,
+Batticaloa,2026-07-12,2026-07-19,60.0,44.0,47.32467532467532,26,validation,Naive drift,,,,
+Colombo,2026-07-12,2026-07-19,1625.0,1330.0,2089.020553359682,26,validation,Naive drift,,,,
+Galle,2026-07-12,2026-07-19,431.0,379.0,459.8000000000006,26,validation,Naive drift,,,,
+Gampaha,2026-07-12,2026-07-19,1224.0,1501.0,1041.1006944444434,26,validation,Naive drift,,,,
+Hambantota,2026-07-12,2026-07-19,226.0,215.0,219.20940170940176,26,validation,Naive drift,,,,
+Jaffna,2026-07-12,2026-07-19,46.0,54.0,43.17999999999999,26,validation,Naive drift,,,,
+Kalmunai RDHS,2026-07-12,2026-07-19,61.0,46.0,57.24242424242428,26,validation,Naive drift,,,,
+Kalutara,2026-07-12,2026-07-19,644.0,592.0,478.8442906574396,26,validation,Naive drift,,,,
+Kandy,2026-07-12,2026-07-19,555.0,681.0,464.566265060241,26,validation,Naive drift,,,,
+Kegalle,2026-07-12,2026-07-19,203.0,247.0,218.03157894736827,26,validation,Naive drift,,,,
+Kilinochchi,2026-07-12,2026-07-19,17.0,4.0,106.99999999999993,26,validation,Naive drift,,,,
+Kurunegala,2026-07-12,2026-07-19,262.0,266.0,232.6790540540542,26,validation,Naive drift,,,,
+Mannar,2026-07-12,2026-07-19,11.0,13.0,19.57142857142857,26,validation,Naive drift,,,,
+Matale,2026-07-12,2026-07-19,89.0,85.0,97.78048780487802,26,validation,Naive drift,,,,
+Matara,2026-07-12,2026-07-19,615.0,552.0,577.4390243902437,26,validation,Naive drift,,,,
+Moneragala,2026-07-12,2026-07-19,99.0,106.0,99.00000000000004,26,validation,Naive drift,,,,
+Mullaitivu,2026-07-12,2026-07-19,9.0,5.0,32.333333333333336,26,validation,Naive drift,,,,
+Nuwara Eliya,2026-07-12,2026-07-19,68.0,112.0,72.24615384615392,26,validation,Naive drift,,,,
+Polonnaruwa,2026-07-12,2026-07-19,79.0,64.0,70.91011235955052,26,validation,Naive drift,,,,
+Puttalam,2026-07-12,2026-07-19,180.0,163.0,236.39855072463774,26,validation,Naive drift,,,,
+Ratnapura,2026-07-12,2026-07-19,386.0,315.0,467.0281250000002,26,validation,Naive drift,,,,
+Trincomalee,2026-07-12,2026-07-19,31.0,25.0,39.96000000000001,26,validation,Naive drift,,,,
+Vavuniya,2026-07-12,2026-07-19,29.0,12.0,89.0,26,validation,Naive drift,,,,
+Ampara RDHS,2026-07-19,2026-07-26,77.0,36.0,92.60000000000002,52,validation,Naive drift,,,,
+Anuradhapura,2026-07-19,2026-07-26,118.0,89.0,95.3333333333334,52,validation,Naive drift,,,,
+Badulla,2026-07-19,2026-07-26,164.0,174.0,149.41436464088383,52,validation,Naive drift,,,,
+Batticaloa,2026-07-19,2026-07-26,44.0,56.0,32.1967213114754,52,validation,Naive drift,,,,
+Colombo,2026-07-19,2026-07-26,1330.0,1374.0,1088.5209102091032,52,validation,Naive drift,,,,
+Galle,2026-07-19,2026-07-26,379.0,308.0,333.2592592592592,52,validation,Naive drift,,,,
+Gampaha,2026-07-19,2026-07-26,1501.0,1320.0,1840.6359183673467,52,validation,Naive drift,,,,
+Hambantota,2026-07-19,2026-07-26,215.0,122.0,204.53303964757717,52,validation,Naive drift,,,,
+Jaffna,2026-07-19,2026-07-26,54.0,35.0,63.36170212765962,52,validation,Naive drift,,,,
+Kalmunai RDHS,2026-07-19,2026-07-26,46.0,43.0,34.6290322580645,52,validation,Naive drift,,,,
+Kalutara,2026-07-19,2026-07-26,592.0,499.0,544.1922480620159,52,validation,Naive drift,,,,
+Kandy,2026-07-19,2026-07-26,681.0,567.0,835.5539568345329,52,validation,Naive drift,,,,
+Kegalle,2026-07-19,2026-07-26,247.0,201.0,300.49019607843167,52,validation,Naive drift,,,,
+Kilinochchi,2026-07-19,2026-07-26,4.0,8.0,0.3888888888888889,52,validation,Naive drift,,,,
+Kurunegala,2026-07-19,2026-07-26,266.0,235.0,270.0608365019012,52,validation,Naive drift,,,,
+Mannar,2026-07-19,2026-07-26,13.0,4.0,15.333333333333325,52,validation,Naive drift,,,,
+Matale,2026-07-19,2026-07-26,85.0,70.0,81.17777777777772,52,validation,Naive drift,,,,
+Matara,2026-07-19,2026-07-26,552.0,380.0,495.44318181818215,52,validation,Naive drift,,,,
+Moneragala,2026-07-19,2026-07-26,106.0,74.0,113.48999999999985,52,validation,Naive drift,,,,
+Mullaitivu,2026-07-19,2026-07-26,5.0,8.0,2.5999999999999988,52,validation,Naive drift,,,,
+Nuwara Eliya,2026-07-19,2026-07-26,112.0,78.0,184.05797101449278,52,validation,Naive drift,,,,
+Polonnaruwa,2026-07-19,2026-07-26,64.0,53.0,51.812499999999986,52,validation,Naive drift,,,,
+Puttalam,2026-07-19,2026-07-26,163.0,171.0,147.59668508287297,52,validation,Naive drift,,,,
+Ratnapura,2026-07-19,2026-07-26,315.0,302.0,257.0258397932817,52,validation,Naive drift,,,,
+Trincomalee,2026-07-19,2026-07-26,25.0,23.0,20.125000000000004,52,validation,Naive drift,,,,
+Vavuniya,2026-07-19,2026-07-26,12.0,16.0,4.633333333333333,52,validation,Naive drift,,,,
+Ampara RDHS,2026-07-26,2026-08-02,36.0,42.0,16.551282051282048,78,validation,Naive drift,,,,
+Anuradhapura,2026-07-26,2026-08-02,89.0,56.0,67.06722689075627,78,validation,Naive drift,,,,
+Badulla,2026-07-26,2026-08-02,174.0,116.0,184.60606060606082,78,validation,Naive drift,,,,
+Batticaloa,2026-07-26,2026-08-02,56.0,44.0,71.20000000000003,78,validation,Naive drift,,,,
+Colombo,2026-07-26,2026-08-02,1374.0,993.0,1419.454545454544,78,validation,Naive drift,,,,
+Galle,2026-07-26,2026-08-02,308.0,263.0,250.26578947368438,78,validation,Naive drift,,,,
+Gampaha,2026-07-26,2026-08-02,1320.0,922.0,1160.8115845539282,78,validation,Naive drift,,,,
+Hambantota,2026-07-26,2026-08-02,122.0,114.0,69.04166666666659,78,validation,Naive drift,,,,
+Jaffna,2026-07-26,2026-08-02,35.0,38.0,22.563636363636352,78,validation,Naive drift,,,,
+Kalmunai RDHS,2026-07-26,2026-08-02,43.0,35.0,40.191489361702125,78,validation,Naive drift,,,,
+Kalutara,2026-07-26,2026-08-02,499.0,379.0,420.58516020236044,78,validation,Naive drift,,,,
+Kandy,2026-07-26,2026-08-02,567.0,428.0,472.0557184750735,78,validation,Naive drift,,,,
+Kegalle,2026-07-26,2026-08-02,201.0,161.0,163.53225806451618,78,validation,Naive drift,,,,
+Kilinochchi,2026-07-26,2026-08-02,8.0,2.0,15.200000000000005,78,validation,Naive drift,,,,
+Kurunegala,2026-07-26,2026-08-02,235.0,171.0,207.59925093632975,78,validation,Naive drift,,,,
+Mannar,2026-07-26,2026-08-02,4.0,4.0,0.7857142857142857,78,validation,Naive drift,,,,
+Matale,2026-07-26,2026-08-02,70.0,38.0,57.61627906976747,78,validation,Naive drift,,,,
+Matara,2026-07-26,2026-08-02,380.0,275.0,261.49728752260404,78,validation,Naive drift,,,,
+Moneragala,2026-07-26,2026-08-02,74.0,69.0,51.57009345794391,78,validation,Naive drift,,,,
+Mullaitivu,2026-07-26,2026-08-02,8.0,5.0,12.500000000000005,78,validation,Naive drift,,,,
+Nuwara Eliya,2026-07-26,2026-08-02,78.0,62.0,54.23008849557521,78,validation,Naive drift,,,,
+Polonnaruwa,2026-07-26,2026-08-02,53.0,35.0,43.86153846153849,78,validation,Naive drift,,,,
+Puttalam,2026-07-26,2026-08-02,171.0,139.0,179.39024390243887,78,validation,Naive drift,,,,
+Ratnapura,2026-07-26,2026-08-02,302.0,175.0,289.53481012658204,78,validation,Naive drift,,,,
+Trincomalee,2026-07-26,2026-08-02,23.0,23.0,21.153846153846157,78,validation,Naive drift,,,,
+Vavuniya,2026-07-26,2026-08-02,16.0,5.0,21.230769230769234,78,validation,Naive drift,,,,
+Ampara RDHS,2026-08-02,2026-08-09,42.0,21.0,48.972972972972975,104,test,Naive drift,,,,
+Anuradhapura,2026-08-02,2026-08-09,56.0,52.0,35.10000000000001,104,test,Naive drift,,,,
+Badulla,2026-08-02,2026-08-09,116.0,86.0,77.22285714285714,104,test,Naive drift,,,,
+Batticaloa,2026-08-02,2026-08-09,44.0,40.0,34.52631578947367,104,test,Naive drift,,,,
+Colombo,2026-08-02,2026-08-09,993.0,799.0,717.571636363637,104,test,Naive drift,,,,
+Galle,2026-08-02,2026-08-09,263.0,203.0,224.55339805825224,104,test,Naive drift,,,,
+Gampaha,2026-08-02,2026-08-09,922.0,720.0,643.9121877365627,104,test,Naive drift,,,,
+Hambantota,2026-08-02,2026-08-09,114.0,103.0,106.5203252032521,104,test,Naive drift,,,,
+Jaffna,2026-08-02,2026-08-09,38.0,45.0,41.24999999999999,104,test,Naive drift,,,,
+Kalmunai RDHS,2026-08-02,2026-08-09,35.0,37.0,28.454545454545453,104,test,Naive drift,,,,
+Kalutara,2026-08-02,2026-08-09,379.0,406.0,287.8000000000002,104,test,Naive drift,,,,
+Kandy,2026-08-02,2026-08-09,428.0,380.0,323.0158450704224,104,test,Naive drift,,,,
+Kegalle,2026-08-02,2026-08-09,161.0,141.0,128.92079207920776,104,test,Naive drift,,,,
+Kilinochchi,2026-08-02,2026-08-09,2.0,2.0,0.0,104,test,Naive drift,,,,
+Kurunegala,2026-08-02,2026-08-09,171.0,132.0,124.3559322033897,104,test,Naive drift,,,,
+Mannar,2026-08-02,2026-08-09,4.0,1.0,3.9999999999999996,104,test,Naive drift,,,,
+Matale,2026-08-02,2026-08-09,38.0,57.0,20.4225352112676,104,test,Naive drift,,,,
+Matara,2026-08-02,2026-08-09,275.0,204.0,198.93700787401553,104,test,Naive drift,,,,
+Moneragala,2026-08-02,2026-08-09,69.0,43.0,64.3333333333334,104,test,Naive drift,,,,
+Mullaitivu,2026-08-02,2026-08-09,5.0,6.0,2.999999999999999,104,test,Naive drift,,,,
+Nuwara Eliya,2026-08-02,2026-08-09,62.0,41.0,49.24050632911391,104,test,Naive drift,,,,
+Polonnaruwa,2026-08-02,2026-08-09,35.0,47.0,22.999999999999993,104,test,Naive drift,,,,
+Puttalam,2026-08-02,2026-08-09,139.0,101.0,112.95348837209296,104,test,Naive drift,,,,
+Ratnapura,2026-08-02,2026-08-09,175.0,174.0,101.23102310231019,104,test,Naive drift,,,,
+Trincomalee,2026-08-02,2026-08-09,23.0,16.0,23.000000000000004,104,test,Naive drift,,,,
+Vavuniya,2026-08-02,2026-08-09,5.0,8.0,1.117647058823529,104,test,Naive drift,,,,
+Ampara RDHS,2026-08-09,2026-08-16,21.0,15.0,10.255813953488378,130,test,Naive drift,,,,
+Anuradhapura,2026-08-09,2026-08-16,52.0,57.0,48.28070175438597,130,test,Naive drift,,,,
+Badulla,2026-08-09,2026-08-16,86.0,55.0,63.69230769230768,130,test,Naive drift,,,,
+Batticaloa,2026-08-09,2026-08-16,40.0,27.0,36.35555555555557,130,test,Naive drift,,,,
+Colombo,2026-08-09,2026-08-16,799.0,584.0,642.8631790744463,130,test,Naive drift,,,,
+Galle,2026-08-09,2026-08-16,203.0,144.0,156.63636363636357,130,test,Naive drift,,,,
+Gampaha,2026-08-09,2026-08-16,720.0,567.0,562.2080173347784,130,test,Naive drift,,,,
+Hambantota,2026-08-09,2026-08-16,103.0,80.0,93.05217391304343,130,test,Naive drift,,,,
+Jaffna,2026-08-09,2026-08-16,45.0,9.0,53.25641025641027,130,test,Naive drift,,,,
+Kalmunai RDHS,2026-08-09,2026-08-16,37.0,55.0,39.11111111111111,130,test,Naive drift,,,,
+Kalutara,2026-08-09,2026-08-16,406.0,186.0,434.9184210526312,130,test,Naive drift,,,,
+Kandy,2026-08-09,2026-08-16,380.0,288.0,337.37062937062956,130,test,Naive drift,,,,
+Kegalle,2026-08-09,2026-08-16,141.0,99.0,123.46913580246922,130,test,Naive drift,,,,
+Kilinochchi,2026-08-09,2026-08-16,2.0,5.0,2.0000000000000004,130,test,Naive drift,,,,
+Kurunegala,2026-08-09,2026-08-16,132.0,106.0,101.84302325581397,130,test,Naive drift,,,,
+Mannar,2026-08-09,2026-08-16,1.0,1.0,0.0,130,test,Naive drift,,,,
+Matale,2026-08-09,2026-08-16,57.0,32.0,85.25641025641022,130,test,Naive drift,,,,
+Matara,2026-08-09,2026-08-16,204.0,114.0,151.26449275362333,130,test,Naive drift,,,,
+Moneragala,2026-08-09,2026-08-16,43.0,33.0,26.65714285714284,130,test,Naive drift,,,,
+Mullaitivu,2026-08-09,2026-08-16,6.0,2.0,7.166666666666666,130,test,Naive drift,,,,
+Nuwara Eliya,2026-08-09,2026-08-16,41.0,36.0,27.00000000000001,130,test,Naive drift,,,,
+Polonnaruwa,2026-08-09,2026-08-16,47.0,9.0,63.000000000000036,130,test,Naive drift,,,,
+Puttalam,2026-08-09,2026-08-16,101.0,73.0,73.31428571428569,130,test,Naive drift,,,,
+Ratnapura,2026-08-09,2026-08-16,174.0,92.0,173.00568181818204,130,test,Naive drift,,,,
+Trincomalee,2026-08-09,2026-08-16,16.0,5.0,11.041666666666668,130,test,Naive drift,,,,
+Vavuniya,2026-08-09,2026-08-16,8.0,8.0,12.500000000000005,130,test,Naive drift,,,,
+Ampara RDHS,2026-07-12,2026-07-19,64.0,77.0,82.22860229844963,26,validation,Ridge regression,,,,
+Anuradhapura,2026-07-12,2026-07-19,146.0,118.0,174.97400609003915,26,validation,Ridge regression,,,,
+Badulla,2026-07-12,2026-07-19,180.0,164.0,212.39137942414555,26,validation,Ridge regression,,,,
+Batticaloa,2026-07-12,2026-07-19,60.0,44.0,78.0961597217848,26,validation,Ridge regression,,,,
+Colombo,2026-07-12,2026-07-19,1625.0,1330.0,1613.5424262531387,26,validation,Ridge regression,,,,
+Galle,2026-07-12,2026-07-19,431.0,379.0,474.09745305003645,26,validation,Ridge regression,,,,
+Gampaha,2026-07-12,2026-07-19,1224.0,1501.0,1241.9153670465719,26,validation,Ridge regression,,,,
+Hambantota,2026-07-12,2026-07-19,226.0,215.0,261.39644138182865,26,validation,Ridge regression,,,,
+Jaffna,2026-07-12,2026-07-19,46.0,54.0,61.569586739447104,26,validation,Ridge regression,,,,
+Kalmunai RDHS,2026-07-12,2026-07-19,61.0,46.0,78.96971349740274,26,validation,Ridge regression,,,,
+Kalutara,2026-07-12,2026-07-19,644.0,592.0,685.5900455770445,26,validation,Ridge regression,,,,
+Kandy,2026-07-12,2026-07-19,555.0,681.0,600.6133088481171,26,validation,Ridge regression,,,,
+Kegalle,2026-07-12,2026-07-19,203.0,247.0,237.908385104558,26,validation,Ridge regression,,,,
+Kilinochchi,2026-07-12,2026-07-19,17.0,4.0,24.716638064402495,26,validation,Ridge regression,,,,
+Kurunegala,2026-07-12,2026-07-19,262.0,266.0,300.60230176018354,26,validation,Ridge regression,,,,
+Mannar,2026-07-12,2026-07-19,11.0,13.0,16.74015447784921,26,validation,Ridge regression,,,,
+Matale,2026-07-12,2026-07-19,89.0,85.0,111.69052786484,26,validation,Ridge regression,,,,
+Matara,2026-07-12,2026-07-19,615.0,552.0,654.3767364683036,26,validation,Ridge regression,,,,
+Moneragala,2026-07-12,2026-07-19,99.0,106.0,122.80023557514157,26,validation,Ridge regression,,,,
+Mullaitivu,2026-07-12,2026-07-19,9.0,5.0,14.032488155198584,26,validation,Ridge regression,,,,
+Nuwara Eliya,2026-07-12,2026-07-19,68.0,112.0,86.91467308657336,26,validation,Ridge regression,,,,
+Polonnaruwa,2026-07-12,2026-07-19,79.0,64.0,99.70680353373497,26,validation,Ridge regression,,,,
+Puttalam,2026-07-12,2026-07-19,180.0,163.0,212.85375692352892,26,validation,Ridge regression,,,,
+Ratnapura,2026-07-12,2026-07-19,386.0,315.0,429.234753293539,26,validation,Ridge regression,,,,
+Trincomalee,2026-07-12,2026-07-19,31.0,25.0,42.72286994430515,26,validation,Ridge regression,,,,
+Vavuniya,2026-07-12,2026-07-19,29.0,12.0,40.06448544529772,26,validation,Ridge regression,,,,
+Ampara RDHS,2026-07-19,2026-07-26,77.0,36.0,116.28575821208744,52,validation,Ridge regression,,,,
+Anuradhapura,2026-07-19,2026-07-26,118.0,89.0,196.08325889072265,52,validation,Ridge regression,,,,
+Badulla,2026-07-19,2026-07-26,164.0,174.0,263.5725088892104,52,validation,Ridge regression,,,,
+Batticaloa,2026-07-19,2026-07-26,44.0,56.0,80.8940061413376,52,validation,Ridge regression,,,,
+Colombo,2026-07-19,2026-07-26,1330.0,1374.0,2103.5780199942014,52,validation,Ridge regression,,,,
+Galle,2026-07-19,2026-07-26,379.0,308.0,600.8618008702829,52,validation,Ridge regression,,,,
+Gampaha,2026-07-19,2026-07-26,1501.0,1320.0,2118.0387838947518,52,validation,Ridge regression,,,,
+Hambantota,2026-07-19,2026-07-26,215.0,122.0,336.53845470106637,52,validation,Ridge regression,,,,
+Jaffna,2026-07-19,2026-07-26,54.0,35.0,89.10333910960468,52,validation,Ridge regression,,,,
+Kalmunai RDHS,2026-07-19,2026-07-26,46.0,43.0,82.28526584380603,52,validation,Ridge regression,,,,
+Kalutara,2026-07-19,2026-07-26,592.0,499.0,913.8418904638056,52,validation,Ridge regression,,,,
+Kandy,2026-07-19,2026-07-26,681.0,567.0,987.6041839860716,52,validation,Ridge regression,,,,
+Kegalle,2026-07-19,2026-07-26,247.0,201.0,368.1115350925491,52,validation,Ridge regression,,,,
+Kilinochchi,2026-07-19,2026-07-26,4.0,8.0,11.201784748105474,52,validation,Ridge regression,,,,
+Kurunegala,2026-07-19,2026-07-26,266.0,235.0,413.8081653312353,52,validation,Ridge regression,,,,
+Mannar,2026-07-19,2026-07-26,13.0,4.0,21.94604452958277,52,validation,Ridge regression,,,,
+Matale,2026-07-19,2026-07-26,85.0,70.0,140.21683156760974,52,validation,Ridge regression,,,,
+Matara,2026-07-19,2026-07-26,552.0,380.0,844.0527908102595,52,validation,Ridge regression,,,,
+Moneragala,2026-07-19,2026-07-26,106.0,74.0,166.17830375627472,52,validation,Ridge regression,,,,
+Mullaitivu,2026-07-19,2026-07-26,5.0,8.0,10.979984712615172,52,validation,Ridge regression,,,,
+Nuwara Eliya,2026-07-19,2026-07-26,112.0,78.0,154.570526767742,52,validation,Ridge regression,,,,
+Polonnaruwa,2026-07-19,2026-07-26,64.0,53.0,108.66881717483297,52,validation,Ridge regression,,,,
+Puttalam,2026-07-19,2026-07-26,163.0,171.0,265.0246270023167,52,validation,Ridge regression,,,,
+Ratnapura,2026-07-19,2026-07-26,315.0,302.0,516.3228155446677,52,validation,Ridge regression,,,,
+Trincomalee,2026-07-19,2026-07-26,25.0,23.0,45.93271299941871,52,validation,Ridge regression,,,,
+Vavuniya,2026-07-19,2026-07-26,12.0,16.0,26.10910097344508,52,validation,Ridge regression,,,,
+Ampara RDHS,2026-07-26,2026-08-02,36.0,42.0,21.62553429829643,78,validation,Ridge regression,,,,
+Anuradhapura,2026-07-26,2026-08-02,89.0,56.0,46.70032048210515,78,validation,Ridge regression,,,,
+Badulla,2026-07-26,2026-08-02,174.0,116.0,82.04632144764629,78,validation,Ridge regression,,,,
+Batticaloa,2026-07-26,2026-08-02,56.0,44.0,27.095363308699305,78,validation,Ridge regression,,,,
+Colombo,2026-07-26,2026-08-02,1374.0,993.0,644.4550176990601,78,validation,Ridge regression,,,,
+Galle,2026-07-26,2026-08-02,308.0,263.0,156.7046437660836,78,validation,Ridge regression,,,,
+Gampaha,2026-07-26,2026-08-02,1320.0,922.0,638.4311746410882,78,validation,Ridge regression,,,,
+Hambantota,2026-07-26,2026-08-02,122.0,114.0,69.44767361471749,78,validation,Ridge regression,,,,
+Jaffna,2026-07-26,2026-08-02,35.0,38.0,21.521051239994787,78,validation,Ridge regression,,,,
+Kalmunai RDHS,2026-07-26,2026-08-02,43.0,35.0,22.20551213360862,78,validation,Ridge regression,,,,
+Kalutara,2026-07-26,2026-08-02,499.0,379.0,247.1216986930902,78,validation,Ridge regression,,,,
+Kandy,2026-07-26,2026-08-02,567.0,428.0,286.9190527292015,78,validation,Ridge regression,,,,
+Kegalle,2026-07-26,2026-08-02,201.0,161.0,103.98593892119679,78,validation,Ridge regression,,,,
+Kilinochchi,2026-07-26,2026-08-02,8.0,2.0,3.0945487313491618,78,validation,Ridge regression,,,,
+Kurunegala,2026-07-26,2026-08-02,235.0,171.0,118.327186586246,78,validation,Ridge regression,,,,
+Mannar,2026-07-26,2026-08-02,4.0,4.0,2.6932994316808148,78,validation,Ridge regression,,,,
+Matale,2026-07-26,2026-08-02,70.0,38.0,37.318771880160405,78,validation,Ridge regression,,,,
+Matara,2026-07-26,2026-08-02,380.0,275.0,195.70740864861006,78,validation,Ridge regression,,,,
+Moneragala,2026-07-26,2026-08-02,74.0,69.0,40.373105315510124,78,validation,Ridge regression,,,,
+Mullaitivu,2026-07-26,2026-08-02,8.0,5.0,3.272739018641409,78,validation,Ridge regression,,,,
+Nuwara Eliya,2026-07-26,2026-08-02,78.0,62.0,40.96387256400704,78,validation,Ridge regression,,,,
+Polonnaruwa,2026-07-26,2026-08-02,53.0,35.0,27.247309779109834,78,validation,Ridge regression,,,,
+Puttalam,2026-07-26,2026-08-02,171.0,139.0,82.34940898671113,78,validation,Ridge regression,,,,
+Ratnapura,2026-07-26,2026-08-02,302.0,175.0,148.46479407430232,78,validation,Ridge regression,,,,
+Trincomalee,2026-07-26,2026-08-02,23.0,23.0,12.325216663499619,78,validation,Ridge regression,,,,
+Vavuniya,2026-07-26,2026-08-02,16.0,5.0,7.094884898925884,78,validation,Ridge regression,,,,
+Ampara RDHS,2026-08-02,2026-08-09,42.0,21.0,19.311540970603343,104,test,Ridge regression,,,,
+Anuradhapura,2026-08-02,2026-08-09,56.0,52.0,32.189273426575674,104,test,Ridge regression,,,,
+Badulla,2026-08-02,2026-08-09,116.0,86.0,65.27701049660332,104,test,Ridge regression,,,,
+Batticaloa,2026-08-02,2026-08-09,44.0,40.0,25.176926126308192,104,test,Ridge regression,,,,
+Colombo,2026-08-02,2026-08-09,993.0,799.0,555.0393156285737,104,test,Ridge regression,,,,
+Galle,2026-08-02,2026-08-09,263.0,203.0,137.69442372616027,104,test,Ridge regression,,,,
+Gampaha,2026-08-02,2026-08-09,922.0,720.0,512.6441936804929,104,test,Ridge regression,,,,
+Hambantota,2026-08-02,2026-08-09,114.0,103.0,57.80334796580997,104,test,Ridge regression,,,,
+Jaffna,2026-08-02,2026-08-09,38.0,45.0,20.573756969712207,104,test,Ridge regression,,,,
+Kalmunai RDHS,2026-08-02,2026-08-09,35.0,37.0,19.20589598435448,104,test,Ridge regression,,,,
+Kalutara,2026-08-02,2026-08-09,379.0,406.0,204.1719136532848,104,test,Ridge regression,,,,
+Kandy,2026-08-02,2026-08-09,428.0,380.0,236.64345181383763,104,test,Ridge regression,,,,
+Kegalle,2026-08-02,2026-08-09,161.0,141.0,87.28567675693873,104,test,Ridge regression,,,,
+Kilinochchi,2026-08-02,2026-08-09,2.0,2.0,1.318867106195518,104,test,Ridge regression,,,,
+Kurunegala,2026-08-02,2026-08-09,171.0,132.0,95.57786777926002,104,test,Ridge regression,,,,
+Mannar,2026-08-02,2026-08-09,4.0,1.0,1.7401545502060314,104,test,Ridge regression,,,,
+Matale,2026-08-02,2026-08-09,38.0,57.0,23.989655027800982,104,test,Ridge regression,,,,
+Matara,2026-08-02,2026-08-09,275.0,204.0,146.92321923669877,104,test,Ridge regression,,,,
+Moneragala,2026-08-02,2026-08-09,69.0,43.0,35.349076139731686,104,test,Ridge regression,,,,
+Mullaitivu,2026-08-02,2026-08-09,5.0,6.0,2.6140602289469705,104,test,Ridge regression,,,,
+Nuwara Eliya,2026-08-02,2026-08-09,62.0,41.0,32.00417035875629,104,test,Ridge regression,,,,
+Polonnaruwa,2026-08-02,2026-08-09,35.0,47.0,19.71749486411736,104,test,Ridge regression,,,,
+Puttalam,2026-08-02,2026-08-09,139.0,101.0,74.66347449657323,104,test,Ridge regression,,,,
+Ratnapura,2026-08-02,2026-08-09,175.0,174.0,106.07141991223195,104,test,Ridge regression,,,,
+Trincomalee,2026-08-02,2026-08-09,23.0,16.0,12.160588410291762,104,test,Ridge regression,,,,
+Vavuniya,2026-08-02,2026-08-09,5.0,8.0,3.3691290618235783,104,test,Ridge regression,,,,
+Ampara RDHS,2026-08-09,2026-08-16,21.0,15.0,19.3472429476837,130,test,Ridge regression,,,,
+Anuradhapura,2026-08-09,2026-08-16,52.0,57.0,40.07636817647316,130,test,Ridge regression,,,,
+Badulla,2026-08-09,2026-08-16,86.0,55.0,71.24845027840391,130,test,Ridge regression,,,,
+Batticaloa,2026-08-09,2026-08-16,40.0,27.0,33.24247699778447,130,test,Ridge regression,,,,
+Colombo,2026-08-09,2026-08-16,799.0,584.0,656.8856412983962,130,test,Ridge regression,,,,
+Galle,2026-08-09,2026-08-16,203.0,144.0,165.98261110154638,130,test,Ridge regression,,,,
+Gampaha,2026-08-09,2026-08-16,720.0,567.0,588.4105839156241,130,test,Ridge regression,,,,
+Hambantota,2026-08-09,2026-08-16,103.0,80.0,79.24703217961216,130,test,Ridge regression,,,,
+Jaffna,2026-08-09,2026-08-16,45.0,9.0,35.686122964604124,130,test,Ridge regression,,,,
+Kalmunai RDHS,2026-08-09,2026-08-16,37.0,55.0,28.300230723198037,130,test,Ridge regression,,,,
+Kalutara,2026-08-09,2026-08-16,406.0,186.0,293.9654137653964,130,test,Ridge regression,,,,
+Kandy,2026-08-09,2026-08-16,380.0,288.0,301.7610011136598,130,test,Ridge regression,,,,
+Kegalle,2026-08-09,2026-08-16,141.0,99.0,112.15484082468656,130,test,Ridge regression,,,,
+Kilinochchi,2026-08-09,2026-08-16,2.0,5.0,1.4822656036454536,130,test,Ridge regression,,,,
+Kurunegala,2026-08-09,2026-08-16,132.0,106.0,110.02094439538759,130,test,Ridge regression,,,,
+Mannar,2026-08-09,2026-08-16,1.0,1.0,1.2403570719838355,130,test,Ridge regression,,,,
+Matale,2026-08-09,2026-08-16,57.0,32.0,39.28994865050011,130,test,Ridge regression,,,,
+Matara,2026-08-09,2026-08-16,204.0,114.0,164.07664449375466,130,test,Ridge regression,,,,
+Moneragala,2026-08-09,2026-08-16,43.0,33.0,38.16521459534232,130,test,Ridge regression,,,,
+Mullaitivu,2026-08-09,2026-08-16,6.0,2.0,4.232675612121384,130,test,Ridge regression,,,,
+Nuwara Eliya,2026-08-09,2026-08-16,41.0,36.0,34.1580022275304,130,test,Ridge regression,,,,
+Polonnaruwa,2026-08-09,2026-08-16,47.0,9.0,31.813508520391757,130,test,Ridge regression,,,,
+Puttalam,2026-08-09,2026-08-16,101.0,73.0,85.3601483132937,130,test,Ridge regression,,,,
+Ratnapura,2026-08-09,2026-08-16,174.0,92.0,134.61495005181987,130,test,Ridge regression,,,,
+Trincomalee,2026-08-09,2026-08-16,16.0,5.0,14.65980362700214,130,test,Ridge regression,,,,
+Vavuniya,2026-08-09,2026-08-16,8.0,8.0,5.176012568399519,130,test,Ridge regression,,,,
+Ampara RDHS,2026-07-12,2026-07-19,64.0,77.0,86.54103624474563,26,validation,Random forest,,,,
+Anuradhapura,2026-07-12,2026-07-19,146.0,118.0,159.9925312813301,26,validation,Random forest,,,,
+Badulla,2026-07-12,2026-07-19,180.0,164.0,182.99265766556218,26,validation,Random forest,,,,
+Batticaloa,2026-07-12,2026-07-19,60.0,44.0,63.27475824235921,26,validation,Random forest,,,,
+Colombo,2026-07-12,2026-07-19,1625.0,1330.0,1469.427694722308,26,validation,Random forest,,,,
+Galle,2026-07-12,2026-07-19,431.0,379.0,399.4510198439916,26,validation,Random forest,,,,
+Gampaha,2026-07-12,2026-07-19,1224.0,1501.0,1105.0269177001442,26,validation,Random forest,,,,
+Hambantota,2026-07-12,2026-07-19,226.0,215.0,221.67009206712217,26,validation,Random forest,,,,
+Jaffna,2026-07-12,2026-07-19,46.0,54.0,49.55828436579532,26,validation,Random forest,,,,
+Kalmunai RDHS,2026-07-12,2026-07-19,61.0,46.0,67.71856246751219,26,validation,Random forest,,,,
+Kalutara,2026-07-12,2026-07-19,644.0,592.0,570.8802994303151,26,validation,Random forest,,,,
+Kandy,2026-07-12,2026-07-19,555.0,681.0,619.4471607059297,26,validation,Random forest,,,,
+Kegalle,2026-07-12,2026-07-19,203.0,247.0,226.40914513556064,26,validation,Random forest,,,,
+Kilinochchi,2026-07-12,2026-07-19,17.0,4.0,41.81482983513276,26,validation,Random forest,,,,
+Kurunegala,2026-07-12,2026-07-19,262.0,266.0,295.21778641965574,26,validation,Random forest,,,,
+Mannar,2026-07-12,2026-07-19,11.0,13.0,27.05353082812083,26,validation,Random forest,,,,
+Matale,2026-07-12,2026-07-19,89.0,85.0,98.35691782569315,26,validation,Random forest,,,,
+Matara,2026-07-12,2026-07-19,615.0,552.0,574.7074673882598,26,validation,Random forest,,,,
+Moneragala,2026-07-12,2026-07-19,99.0,106.0,113.41127720944947,26,validation,Random forest,,,,
+Mullaitivu,2026-07-12,2026-07-19,9.0,5.0,25.850443158140518,26,validation,Random forest,,,,
+Nuwara Eliya,2026-07-12,2026-07-19,68.0,112.0,79.0155853064417,26,validation,Random forest,,,,
+Polonnaruwa,2026-07-12,2026-07-19,79.0,64.0,89.8904734437854,26,validation,Random forest,,,,
+Puttalam,2026-07-12,2026-07-19,180.0,163.0,214.33410502885084,26,validation,Random forest,,,,
+Ratnapura,2026-07-12,2026-07-19,386.0,315.0,366.80896631705957,26,validation,Random forest,,,,
+Trincomalee,2026-07-12,2026-07-19,31.0,25.0,40.86191901347667,26,validation,Random forest,,,,
+Vavuniya,2026-07-12,2026-07-19,29.0,12.0,63.196767004800456,26,validation,Random forest,,,,
+Ampara RDHS,2026-07-19,2026-07-26,77.0,36.0,83.4339641177349,52,validation,Random forest,,,,
+Anuradhapura,2026-07-19,2026-07-26,118.0,89.0,123.24364959283805,52,validation,Random forest,,,,
+Badulla,2026-07-19,2026-07-26,164.0,174.0,159.1090919708811,52,validation,Random forest,,,,
+Batticaloa,2026-07-19,2026-07-26,44.0,56.0,43.514463211540814,52,validation,Random forest,,,,
+Colombo,2026-07-19,2026-07-26,1330.0,1374.0,1485.1880180782464,52,validation,Random forest,,,,
+Galle,2026-07-19,2026-07-26,379.0,308.0,369.98817586471074,52,validation,Random forest,,,,
+Gampaha,2026-07-19,2026-07-26,1501.0,1320.0,1280.781413130423,52,validation,Random forest,,,,
+Hambantota,2026-07-19,2026-07-26,215.0,122.0,204.95187370359736,52,validation,Random forest,,,,
+Jaffna,2026-07-19,2026-07-26,54.0,35.0,56.28141254253603,52,validation,Random forest,,,,
+Kalmunai RDHS,2026-07-19,2026-07-26,46.0,43.0,44.070695186307546,52,validation,Random forest,,,,
+Kalutara,2026-07-19,2026-07-26,592.0,499.0,544.2755869753627,52,validation,Random forest,,,,
+Kandy,2026-07-19,2026-07-26,681.0,567.0,583.6252963037233,52,validation,Random forest,,,,
+Kegalle,2026-07-19,2026-07-26,247.0,201.0,251.50178010389268,52,validation,Random forest,,,,
+Kilinochchi,2026-07-19,2026-07-26,4.0,8.0,9.815085272344392,52,validation,Random forest,,,,
+Kurunegala,2026-07-19,2026-07-26,266.0,235.0,300.9519849951423,52,validation,Random forest,,,,
+Mannar,2026-07-19,2026-07-26,13.0,4.0,16.043831120798522,52,validation,Random forest,,,,
+Matale,2026-07-19,2026-07-26,85.0,70.0,85.25180554841762,52,validation,Random forest,,,,
+Matara,2026-07-19,2026-07-26,552.0,380.0,516.5133902397013,52,validation,Random forest,,,,
+Moneragala,2026-07-19,2026-07-26,106.0,74.0,103.75367231516785,52,validation,Random forest,,,,
+Mullaitivu,2026-07-19,2026-07-26,5.0,8.0,11.182243570748266,52,validation,Random forest,,,,
+Nuwara Eliya,2026-07-19,2026-07-26,112.0,78.0,101.98616182018965,52,validation,Random forest,,,,
+Polonnaruwa,2026-07-19,2026-07-26,64.0,53.0,66.51736180216642,52,validation,Random forest,,,,
+Puttalam,2026-07-19,2026-07-26,163.0,171.0,184.03988865319545,52,validation,Random forest,,,,
+Ratnapura,2026-07-19,2026-07-26,315.0,302.0,360.9061122218225,52,validation,Random forest,,,,
+Trincomalee,2026-07-19,2026-07-26,25.0,23.0,25.306853633674837,52,validation,Random forest,,,,
+Vavuniya,2026-07-19,2026-07-26,12.0,16.0,16.959648829731705,52,validation,Random forest,,,,
+Ampara RDHS,2026-07-26,2026-08-02,36.0,42.0,36.15854679240062,78,validation,Random forest,,,,
+Anuradhapura,2026-07-26,2026-08-02,89.0,56.0,76.17741437042001,78,validation,Random forest,,,,
+Badulla,2026-07-26,2026-08-02,174.0,116.0,151.49048760062536,78,validation,Random forest,,,,
+Batticaloa,2026-07-26,2026-08-02,56.0,44.0,44.057910294022676,78,validation,Random forest,,,,
+Colombo,2026-07-26,2026-08-02,1374.0,993.0,1285.6514439371379,78,validation,Random forest,,,,
+Galle,2026-07-26,2026-08-02,308.0,263.0,272.8718490270815,78,validation,Random forest,,,,
+Gampaha,2026-07-26,2026-08-02,1320.0,922.0,1142.1306487813083,78,validation,Random forest,,,,
+Hambantota,2026-07-26,2026-08-02,122.0,114.0,120.73713529825851,78,validation,Random forest,,,,
+Jaffna,2026-07-26,2026-08-02,35.0,38.0,37.2180720001373,78,validation,Random forest,,,,
+Kalmunai RDHS,2026-07-26,2026-08-02,43.0,35.0,40.625233525284884,78,validation,Random forest,,,,
+Kalutara,2026-07-26,2026-08-02,499.0,379.0,427.6524987641306,78,validation,Random forest,,,,
+Kandy,2026-07-26,2026-08-02,567.0,428.0,589.9761608981818,78,validation,Random forest,,,,
+Kegalle,2026-07-26,2026-08-02,201.0,161.0,202.9213249110933,78,validation,Random forest,,,,
+Kilinochchi,2026-07-26,2026-08-02,8.0,2.0,8.076272133318932,78,validation,Random forest,,,,
+Kurunegala,2026-07-26,2026-08-02,235.0,171.0,236.32371791214067,78,validation,Random forest,,,,
+Mannar,2026-07-26,2026-08-02,4.0,4.0,9.742093620333664,78,validation,Random forest,,,,
+Matale,2026-07-26,2026-08-02,70.0,38.0,62.43843527702773,78,validation,Random forest,,,,
+Matara,2026-07-26,2026-08-02,380.0,275.0,291.7864293960169,78,validation,Random forest,,,,
+Moneragala,2026-07-26,2026-08-02,74.0,69.0,72.93673373292054,78,validation,Random forest,,,,
+Mullaitivu,2026-07-26,2026-08-02,8.0,5.0,8.336734575015583,78,validation,Random forest,,,,
+Nuwara Eliya,2026-07-26,2026-08-02,78.0,62.0,68.78146931059061,78,validation,Random forest,,,,
+Polonnaruwa,2026-07-26,2026-08-02,53.0,35.0,54.37850923138755,78,validation,Random forest,,,,
+Puttalam,2026-07-26,2026-08-02,171.0,139.0,174.90289709153075,78,validation,Random forest,,,,
+Ratnapura,2026-07-26,2026-08-02,302.0,175.0,304.32779683041656,78,validation,Random forest,,,,
+Trincomalee,2026-07-26,2026-08-02,23.0,23.0,23.543558506606814,78,validation,Random forest,,,,
+Vavuniya,2026-07-26,2026-08-02,16.0,5.0,9.237338417678249,78,validation,Random forest,,,,
+Ampara RDHS,2026-08-02,2026-08-09,42.0,21.0,28.512420647901525,104,test,Random forest,,,,
+Anuradhapura,2026-08-02,2026-08-09,56.0,52.0,47.96227764076106,104,test,Random forest,,,,
+Badulla,2026-08-02,2026-08-09,116.0,86.0,100.55972513020087,104,test,Random forest,,,,
+Batticaloa,2026-08-02,2026-08-09,44.0,40.0,40.51639264294141,104,test,Random forest,,,,
+Colombo,2026-08-02,2026-08-09,993.0,799.0,842.7460346010407,104,test,Random forest,,,,
+Galle,2026-08-02,2026-08-09,263.0,203.0,199.7035972698472,104,test,Random forest,,,,
+Gampaha,2026-08-02,2026-08-09,922.0,720.0,778.7972484966875,104,test,Random forest,,,,
+Hambantota,2026-08-02,2026-08-09,114.0,103.0,85.01926787781714,104,test,Random forest,,,,
+Jaffna,2026-08-02,2026-08-09,38.0,45.0,33.23496039484737,104,test,Random forest,,,,
+Kalmunai RDHS,2026-08-02,2026-08-09,35.0,37.0,31.96117252872002,104,test,Random forest,,,,
+Kalutara,2026-08-02,2026-08-09,379.0,406.0,301.3530706937704,104,test,Random forest,,,,
+Kandy,2026-08-02,2026-08-09,428.0,380.0,349.9636496217735,104,test,Random forest,,,,
+Kegalle,2026-08-02,2026-08-09,161.0,141.0,133.83158735853445,104,test,Random forest,,,,
+Kilinochchi,2026-08-02,2026-08-09,2.0,2.0,3.802694912233136,104,test,Random forest,,,,
+Kurunegala,2026-08-02,2026-08-09,171.0,132.0,144.63298168936967,104,test,Random forest,,,,
+Mannar,2026-08-02,2026-08-09,4.0,1.0,5.970488264613758,104,test,Random forest,,,,
+Matale,2026-08-02,2026-08-09,38.0,57.0,38.14573304927697,104,test,Random forest,,,,
+Matara,2026-08-02,2026-08-09,275.0,204.0,218.47967601961344,104,test,Random forest,,,,
+Moneragala,2026-08-02,2026-08-09,69.0,43.0,50.806636569754765,104,test,Random forest,,,,
+Mullaitivu,2026-08-02,2026-08-09,5.0,6.0,7.892637708811954,104,test,Random forest,,,,
+Nuwara Eliya,2026-08-02,2026-08-09,62.0,41.0,46.93345956677878,104,test,Random forest,,,,
+Polonnaruwa,2026-08-02,2026-08-09,35.0,47.0,34.82975665918861,104,test,Random forest,,,,
+Puttalam,2026-08-02,2026-08-09,139.0,101.0,114.03378011612597,104,test,Random forest,,,,
+Ratnapura,2026-08-02,2026-08-09,175.0,174.0,151.9302311208625,104,test,Random forest,,,,
+Trincomalee,2026-08-02,2026-08-09,23.0,16.0,20.245819348906235,104,test,Random forest,,,,
+Vavuniya,2026-08-02,2026-08-09,5.0,8.0,9.692906127885513,104,test,Random forest,,,,
+Ampara RDHS,2026-08-09,2026-08-16,21.0,15.0,23.19323656144586,130,test,Random forest,,,,
+Anuradhapura,2026-08-09,2026-08-16,52.0,57.0,36.64893240262537,130,test,Random forest,,,,
+Badulla,2026-08-09,2026-08-16,86.0,55.0,71.12557831284218,130,test,Random forest,,,,
+Batticaloa,2026-08-09,2026-08-16,40.0,27.0,37.41218795321793,130,test,Random forest,,,,
+Colombo,2026-08-09,2026-08-16,799.0,584.0,683.8952962591048,130,test,Random forest,,,,
+Galle,2026-08-09,2026-08-16,203.0,144.0,171.1316946932102,130,test,Random forest,,,,
+Gampaha,2026-08-09,2026-08-16,720.0,567.0,615.0922790114654,130,test,Random forest,,,,
+Hambantota,2026-08-09,2026-08-16,103.0,80.0,79.35704075190637,130,test,Random forest,,,,
+Jaffna,2026-08-09,2026-08-16,45.0,9.0,37.10294719775051,130,test,Random forest,,,,
+Kalmunai RDHS,2026-08-09,2026-08-16,37.0,55.0,32.05345247593423,130,test,Random forest,,,,
+Kalutara,2026-08-09,2026-08-16,406.0,186.0,306.66602795462103,130,test,Random forest,,,,
+Kandy,2026-08-09,2026-08-16,380.0,288.0,295.95032662194643,130,test,Random forest,,,,
+Kegalle,2026-08-09,2026-08-16,141.0,99.0,110.98747324623295,130,test,Random forest,,,,
+Kilinochchi,2026-08-09,2026-08-16,2.0,5.0,2.0222507906270915,130,test,Random forest,,,,
+Kurunegala,2026-08-09,2026-08-16,132.0,106.0,112.31780817282856,130,test,Random forest,,,,
+Mannar,2026-08-09,2026-08-16,1.0,1.0,1.1833468226739718,130,test,Random forest,,,,
+Matale,2026-08-09,2026-08-16,57.0,32.0,41.56276246482981,130,test,Random forest,,,,
+Matara,2026-08-09,2026-08-16,204.0,114.0,160.36718316832898,130,test,Random forest,,,,
+Moneragala,2026-08-09,2026-08-16,43.0,33.0,45.0745669907184,130,test,Random forest,,,,
+Mullaitivu,2026-08-09,2026-08-16,6.0,2.0,4.134105150786092,130,test,Random forest,,,,
+Nuwara Eliya,2026-08-09,2026-08-16,41.0,36.0,40.079230846889025,130,test,Random forest,,,,
+Polonnaruwa,2026-08-09,2026-08-16,47.0,9.0,32.020628277527805,130,test,Random forest,,,,
+Puttalam,2026-08-09,2026-08-16,101.0,73.0,84.04656564782123,130,test,Random forest,,,,
+Ratnapura,2026-08-09,2026-08-16,174.0,92.0,130.39828306610855,130,test,Random forest,,,,
+Trincomalee,2026-08-09,2026-08-16,16.0,5.0,16.09437722651923,130,test,Random forest,,,,
+Vavuniya,2026-08-09,2026-08-16,8.0,8.0,4.33525805014397,130,test,Random forest,,,,
+Ampara RDHS,2026-07-12,2026-07-19,64.0,77.0,66.07329743543286,26,validation,"NGBoost (Poisson, counts)",56.0,77.0,53.0,80.0
+Anuradhapura,2026-07-12,2026-07-19,146.0,118.0,183.31403724378467,26,validation,"NGBoost (Poisson, counts)",166.0,201.0,161.0,206.0
+Badulla,2026-07-12,2026-07-19,180.0,164.0,205.00862600794747,26,validation,"NGBoost (Poisson, counts)",187.0,223.0,182.0,229.0
+Batticaloa,2026-07-12,2026-07-19,60.0,44.0,59.95495715004899,26,validation,"NGBoost (Poisson, counts)",50.0,70.0,48.0,73.0
+Colombo,2026-07-12,2026-07-19,1625.0,1330.0,1244.4503937483203,26,validation,"NGBoost (Poisson, counts)",1199.0,1290.0,1187.0,1303.0
+Galle,2026-07-12,2026-07-19,431.0,379.0,430.47262856607705,26,validation,"NGBoost (Poisson, counts)",404.0,457.0,397.0,465.0
+Gampaha,2026-07-12,2026-07-19,1224.0,1501.0,1425.8553340226622,26,validation,"NGBoost (Poisson, counts)",1378.0,1474.0,1364.0,1488.0
+Hambantota,2026-07-12,2026-07-19,226.0,215.0,225.78034665413202,26,validation,"NGBoost (Poisson, counts)",207.0,245.0,201.0,251.0
+Jaffna,2026-07-12,2026-07-19,46.0,54.0,46.28440858518234,26,validation,"NGBoost (Poisson, counts)",38.0,55.0,35.0,58.0
+Kalmunai RDHS,2026-07-12,2026-07-19,61.0,46.0,61.041458791467186,26,validation,"NGBoost (Poisson, counts)",51.0,71.0,48.0,74.0
+Kalutara,2026-07-12,2026-07-19,644.0,592.0,587.1707261475857,26,validation,"NGBoost (Poisson, counts)",556.0,618.0,548.0,627.0
+Kandy,2026-07-12,2026-07-19,555.0,681.0,574.6253996197989,26,validation,"NGBoost (Poisson, counts)",544.0,605.0,535.0,614.0
+Kegalle,2026-07-12,2026-07-19,203.0,247.0,203.38517105393754,26,validation,"NGBoost (Poisson, counts)",185.0,222.0,180.0,227.0
+Kilinochchi,2026-07-12,2026-07-19,17.0,4.0,33.69819070128216,26,validation,"NGBoost (Poisson, counts)",26.0,41.0,24.0,44.0
+Kurunegala,2026-07-12,2026-07-19,262.0,266.0,244.56240100453965,26,validation,"NGBoost (Poisson, counts)",225.0,265.0,219.0,271.0
+Mannar,2026-07-12,2026-07-19,11.0,13.0,28.66859123593394,26,validation,"NGBoost (Poisson, counts)",22.0,36.0,20.0,38.0
+Matale,2026-07-12,2026-07-19,89.0,85.0,88.39110982517319,26,validation,"NGBoost (Poisson, counts)",76.0,101.0,73.0,104.0
+Matara,2026-07-12,2026-07-19,615.0,552.0,614.3157419350166,26,validation,"NGBoost (Poisson, counts)",583.0,646.0,574.0,655.0
+Moneragala,2026-07-12,2026-07-19,99.0,106.0,99.08336519229196,26,validation,"NGBoost (Poisson, counts)",86.0,112.0,83.0,116.0
+Mullaitivu,2026-07-12,2026-07-19,9.0,5.0,26.846577347790937,26,validation,"NGBoost (Poisson, counts)",20.0,34.0,19.0,36.0
+Nuwara Eliya,2026-07-12,2026-07-19,68.0,112.0,66.43743156094075,26,validation,"NGBoost (Poisson, counts)",56.0,77.0,53.0,80.0
+Polonnaruwa,2026-07-12,2026-07-19,79.0,64.0,108.21312061971359,26,validation,"NGBoost (Poisson, counts)",95.0,122.0,91.0,126.0
+Puttalam,2026-07-12,2026-07-19,180.0,163.0,206.88144137478773,26,validation,"NGBoost (Poisson, counts)",189.0,225.0,184.0,231.0
+Ratnapura,2026-07-12,2026-07-19,386.0,315.0,430.35760787682585,26,validation,"NGBoost (Poisson, counts)",404.0,457.0,397.0,465.0
+Trincomalee,2026-07-12,2026-07-19,31.0,25.0,30.97292911577295,26,validation,"NGBoost (Poisson, counts)",24.0,38.0,22.0,40.0
+Vavuniya,2026-07-12,2026-07-19,29.0,12.0,35.3666340854934,26,validation,"NGBoost (Poisson, counts)",28.0,43.0,26.0,45.0
+Ampara RDHS,2026-07-19,2026-07-26,77.0,36.0,85.66834915944091,52,validation,"NGBoost (Poisson, counts)",74.0,98.0,71.0,101.0
+Anuradhapura,2026-07-19,2026-07-26,118.0,89.0,177.606565963633,52,validation,"NGBoost (Poisson, counts)",161.0,195.0,156.0,200.0
+Badulla,2026-07-19,2026-07-26,164.0,174.0,169.8334933460564,52,validation,"NGBoost (Poisson, counts)",153.0,187.0,149.0,192.0
+Batticaloa,2026-07-19,2026-07-26,44.0,56.0,48.82683782277414,52,validation,"NGBoost (Poisson, counts)",40.0,58.0,38.0,61.0
+Colombo,2026-07-19,2026-07-26,1330.0,1374.0,1581.870712500092,52,validation,"NGBoost (Poisson, counts)",1531.0,1633.0,1517.0,1648.0
+Galle,2026-07-19,2026-07-26,379.0,308.0,327.2679824811842,52,validation,"NGBoost (Poisson, counts)",304.0,351.0,298.0,357.0
+Gampaha,2026-07-19,2026-07-26,1501.0,1320.0,1283.7950112732033,52,validation,"NGBoost (Poisson, counts)",1238.0,1330.0,1225.0,1343.0
+Hambantota,2026-07-19,2026-07-26,215.0,122.0,216.61874007679023,52,validation,"NGBoost (Poisson, counts)",198.0,236.0,193.0,241.0
+Jaffna,2026-07-19,2026-07-26,54.0,35.0,46.79624593623189,52,validation,"NGBoost (Poisson, counts)",38.0,56.0,36.0,58.0
+Kalmunai RDHS,2026-07-19,2026-07-26,46.0,43.0,55.18166248837948,52,validation,"NGBoost (Poisson, counts)",46.0,65.0,43.0,68.0
+Kalutara,2026-07-19,2026-07-26,592.0,499.0,563.6266842346957,52,validation,"NGBoost (Poisson, counts)",533.0,594.0,525.0,603.0
+Kandy,2026-07-19,2026-07-26,681.0,567.0,541.7939562806362,52,validation,"NGBoost (Poisson, counts)",512.0,572.0,504.0,580.0
+Kegalle,2026-07-19,2026-07-26,247.0,201.0,221.705658538909,52,validation,"NGBoost (Poisson, counts)",203.0,241.0,198.0,246.0
+Kilinochchi,2026-07-19,2026-07-26,4.0,8.0,11.5020346721402,52,validation,"NGBoost (Poisson, counts)",7.0,16.0,6.0,17.0
+Kurunegala,2026-07-19,2026-07-26,266.0,235.0,259.7556466797827,52,validation,"NGBoost (Poisson, counts)",239.0,281.0,234.0,287.0
+Mannar,2026-07-19,2026-07-26,13.0,4.0,14.956596662178107,52,validation,"NGBoost (Poisson, counts)",10.0,20.0,9.0,22.0
+Matale,2026-07-19,2026-07-26,85.0,70.0,82.03046334769795,52,validation,"NGBoost (Poisson, counts)",71.0,94.0,67.0,97.0
+Matara,2026-07-19,2026-07-26,552.0,380.0,562.0762705631695,52,validation,"NGBoost (Poisson, counts)",532.0,593.0,523.0,601.0
+Moneragala,2026-07-19,2026-07-26,106.0,74.0,98.19290527474861,52,validation,"NGBoost (Poisson, counts)",86.0,111.0,82.0,115.0
+Mullaitivu,2026-07-19,2026-07-26,5.0,8.0,9.664940857014031,52,validation,"NGBoost (Poisson, counts)",6.0,14.0,5.0,15.0
+Nuwara Eliya,2026-07-19,2026-07-26,112.0,78.0,78.65650238387578,52,validation,"NGBoost (Poisson, counts)",67.0,90.0,64.0,94.0
+Polonnaruwa,2026-07-19,2026-07-26,64.0,53.0,62.69290035240251,52,validation,"NGBoost (Poisson, counts)",53.0,73.0,50.0,76.0
+Puttalam,2026-07-19,2026-07-26,163.0,171.0,184.12470140468199,52,validation,"NGBoost (Poisson, counts)",167.0,202.0,162.0,207.0
+Ratnapura,2026-07-19,2026-07-26,315.0,302.0,361.7265311323893,52,validation,"NGBoost (Poisson, counts)",337.0,386.0,331.0,393.0
+Trincomalee,2026-07-19,2026-07-26,25.0,23.0,27.65050263375566,52,validation,"NGBoost (Poisson, counts)",21.0,34.0,19.0,37.0
+Vavuniya,2026-07-19,2026-07-26,12.0,16.0,23.216961784958514,52,validation,"NGBoost (Poisson, counts)",17.0,29.0,16.0,31.0
+Ampara RDHS,2026-07-26,2026-08-02,36.0,42.0,31.860840436518444,78,validation,"NGBoost (Poisson, counts)",25.0,39.0,23.0,41.0
+Anuradhapura,2026-07-26,2026-08-02,89.0,56.0,81.80973925977867,78,validation,"NGBoost (Poisson, counts)",70.0,94.0,67.0,97.0
+Badulla,2026-07-26,2026-08-02,174.0,116.0,168.4189622074884,78,validation,"NGBoost (Poisson, counts)",152.0,185.0,147.0,190.0
+Batticaloa,2026-07-26,2026-08-02,56.0,44.0,34.70378191561534,78,validation,"NGBoost (Poisson, counts)",27.0,42.0,25.0,45.0
+Colombo,2026-07-26,2026-08-02,1374.0,993.0,1318.875892567476,78,validation,"NGBoost (Poisson, counts)",1272.0,1366.0,1259.0,1379.0
+Galle,2026-07-26,2026-08-02,308.0,263.0,284.20196667685053,78,validation,"NGBoost (Poisson, counts)",263.0,306.0,257.0,312.0
+Gampaha,2026-07-26,2026-08-02,1320.0,922.0,1316.540343064984,78,validation,"NGBoost (Poisson, counts)",1270.0,1363.0,1257.0,1377.0
+Hambantota,2026-07-26,2026-08-02,122.0,114.0,83.55990167621535,78,validation,"NGBoost (Poisson, counts)",72.0,95.0,69.0,99.0
+Jaffna,2026-07-26,2026-08-02,35.0,38.0,34.34433079395503,78,validation,"NGBoost (Poisson, counts)",27.0,42.0,25.0,44.0
+Kalmunai RDHS,2026-07-26,2026-08-02,43.0,35.0,38.278607257172915,78,validation,"NGBoost (Poisson, counts)",30.0,46.0,28.0,49.0
+Kalutara,2026-07-26,2026-08-02,499.0,379.0,371.1119315551173,78,validation,"NGBoost (Poisson, counts)",347.0,396.0,340.0,403.0
+Kandy,2026-07-26,2026-08-02,567.0,428.0,638.5495081456895,78,validation,"NGBoost (Poisson, counts)",606.0,671.0,597.0,680.0
+Kegalle,2026-07-26,2026-08-02,201.0,161.0,190.48545148160645,78,validation,"NGBoost (Poisson, counts)",173.0,208.0,168.0,213.0
+Kilinochchi,2026-07-26,2026-08-02,8.0,2.0,7.760073891291542,78,validation,"NGBoost (Poisson, counts)",4.0,11.0,4.0,13.0
+Kurunegala,2026-07-26,2026-08-02,235.0,171.0,228.47378855807636,78,validation,"NGBoost (Poisson, counts)",209.0,248.0,204.0,254.0
+Mannar,2026-07-26,2026-08-02,4.0,4.0,8.00278577758268,78,validation,"NGBoost (Poisson, counts)",5.0,12.0,4.0,13.0
+Matale,2026-07-26,2026-08-02,70.0,38.0,60.386073650537874,78,validation,"NGBoost (Poisson, counts)",51.0,70.0,48.0,73.0
+Matara,2026-07-26,2026-08-02,380.0,275.0,306.99949729797424,78,validation,"NGBoost (Poisson, counts)",285.0,330.0,278.0,336.0
+Moneragala,2026-07-26,2026-08-02,74.0,69.0,57.08172852178898,78,validation,"NGBoost (Poisson, counts)",48.0,67.0,45.0,70.0
+Mullaitivu,2026-07-26,2026-08-02,8.0,5.0,7.53251275541639,78,validation,"NGBoost (Poisson, counts)",4.0,11.0,3.0,12.0
+Nuwara Eliya,2026-07-26,2026-08-02,78.0,62.0,56.62467174559605,78,validation,"NGBoost (Poisson, counts)",47.0,66.0,45.0,69.0
+Polonnaruwa,2026-07-26,2026-08-02,53.0,35.0,52.19935133226604,78,validation,"NGBoost (Poisson, counts)",43.0,62.0,41.0,64.0
+Puttalam,2026-07-26,2026-08-02,171.0,139.0,182.01774227012626,78,validation,"NGBoost (Poisson, counts)",165.0,199.0,160.0,204.0
+Ratnapura,2026-07-26,2026-08-02,302.0,175.0,258.97116643717123,78,validation,"NGBoost (Poisson, counts)",238.0,280.0,233.0,286.0
+Trincomalee,2026-07-26,2026-08-02,23.0,23.0,23.662852059870943,78,validation,"NGBoost (Poisson, counts)",18.0,30.0,16.0,32.0
+Vavuniya,2026-07-26,2026-08-02,16.0,5.0,6.327765500768753,78,validation,"NGBoost (Poisson, counts)",3.0,10.0,3.0,11.0
+Ampara RDHS,2026-08-02,2026-08-09,42.0,21.0,27.30299343119312,104,test,"NGBoost (Poisson, counts)",21.0,34.0,19.0,36.0
+Anuradhapura,2026-08-02,2026-08-09,56.0,52.0,42.73561910155141,104,test,"NGBoost (Poisson, counts)",34.0,51.0,32.0,54.0
+Badulla,2026-08-02,2026-08-09,116.0,86.0,88.22758474337455,104,test,"NGBoost (Poisson, counts)",76.0,100.0,73.0,104.0
+Batticaloa,2026-08-02,2026-08-09,44.0,40.0,41.568611887749434,104,test,"NGBoost (Poisson, counts)",33.0,50.0,31.0,52.0
+Colombo,2026-08-02,2026-08-09,993.0,799.0,791.9880276915974,104,test,"NGBoost (Poisson, counts)",756.0,828.0,746.0,839.0
+Galle,2026-08-02,2026-08-09,263.0,203.0,205.82982591769334,104,test,"NGBoost (Poisson, counts)",188.0,224.0,183.0,230.0
+Gampaha,2026-08-02,2026-08-09,922.0,720.0,683.9541884891455,104,test,"NGBoost (Poisson, counts)",651.0,718.0,641.0,727.0
+Hambantota,2026-08-02,2026-08-09,114.0,103.0,80.75608410017125,104,test,"NGBoost (Poisson, counts)",69.0,92.0,66.0,96.0
+Jaffna,2026-08-02,2026-08-09,38.0,45.0,32.23787457948307,104,test,"NGBoost (Poisson, counts)",25.0,40.0,23.0,42.0
+Kalmunai RDHS,2026-08-02,2026-08-09,35.0,37.0,33.86401411953418,104,test,"NGBoost (Poisson, counts)",27.0,41.0,25.0,44.0
+Kalutara,2026-08-02,2026-08-09,379.0,406.0,275.7772762147132,104,test,"NGBoost (Poisson, counts)",255.0,297.0,249.0,303.0
+Kandy,2026-08-02,2026-08-09,428.0,380.0,335.303489552337,104,test,"NGBoost (Poisson, counts)",312.0,359.0,305.0,366.0
+Kegalle,2026-08-02,2026-08-09,161.0,141.0,147.5734543667396,104,test,"NGBoost (Poisson, counts)",132.0,163.0,128.0,168.0
+Kilinochchi,2026-08-02,2026-08-09,2.0,2.0,4.666447579308619,104,test,"NGBoost (Poisson, counts)",2.0,8.0,1.0,8.0
+Kurunegala,2026-08-02,2026-08-09,171.0,132.0,151.23456695673096,104,test,"NGBoost (Poisson, counts)",136.0,167.0,131.0,172.0
+Mannar,2026-08-02,2026-08-09,4.0,1.0,2.450798990052682,104,test,"NGBoost (Poisson, counts)",1.0,5.0,0.0,5.0
+Matale,2026-08-02,2026-08-09,38.0,57.0,37.75931630822922,104,test,"NGBoost (Poisson, counts)",30.0,46.0,28.0,48.0
+Matara,2026-08-02,2026-08-09,275.0,204.0,223.1665279338205,104,test,"NGBoost (Poisson, counts)",204.0,242.0,199.0,248.0
+Moneragala,2026-08-02,2026-08-09,69.0,43.0,46.480113085933255,104,test,"NGBoost (Poisson, counts)",38.0,55.0,36.0,58.0
+Mullaitivu,2026-08-02,2026-08-09,5.0,6.0,5.842029503008782,104,test,"NGBoost (Poisson, counts)",3.0,9.0,2.0,10.0
+Nuwara Eliya,2026-08-02,2026-08-09,62.0,41.0,44.41516254441331,104,test,"NGBoost (Poisson, counts)",36.0,53.0,34.0,56.0
+Polonnaruwa,2026-08-02,2026-08-09,35.0,47.0,36.89904778369189,104,test,"NGBoost (Poisson, counts)",29.0,45.0,27.0,47.0
+Puttalam,2026-08-02,2026-08-09,139.0,101.0,141.5096045968324,104,test,"NGBoost (Poisson, counts)",126.0,157.0,122.0,161.0
+Ratnapura,2026-08-02,2026-08-09,175.0,174.0,143.39126016220598,104,test,"NGBoost (Poisson, counts)",128.0,159.0,124.0,163.0
+Trincomalee,2026-08-02,2026-08-09,23.0,16.0,21.922275022462596,104,test,"NGBoost (Poisson, counts)",16.0,28.0,15.0,30.0
+Vavuniya,2026-08-02,2026-08-09,5.0,8.0,6.059020920412077,104,test,"NGBoost (Poisson, counts)",3.0,9.0,2.0,10.0
+Ampara RDHS,2026-08-09,2026-08-16,21.0,15.0,22.95169516452578,130,test,"NGBoost (Poisson, counts)",17.0,29.0,15.0,31.0
+Anuradhapura,2026-08-09,2026-08-16,52.0,57.0,40.54741076804629,130,test,"NGBoost (Poisson, counts)",33.0,49.0,30.0,51.0
+Badulla,2026-08-09,2026-08-16,86.0,55.0,76.31730193729902,130,test,"NGBoost (Poisson, counts)",65.0,88.0,62.0,91.0
+Batticaloa,2026-08-09,2026-08-16,40.0,27.0,39.486482385283736,130,test,"NGBoost (Poisson, counts)",32.0,48.0,29.0,50.0
+Colombo,2026-08-09,2026-08-16,799.0,584.0,643.5504362908488,130,test,"NGBoost (Poisson, counts)",611.0,676.0,602.0,686.0
+Galle,2026-08-09,2026-08-16,203.0,144.0,169.06558836833042,130,test,"NGBoost (Poisson, counts)",153.0,186.0,148.0,191.0
+Gampaha,2026-08-09,2026-08-16,720.0,567.0,601.3061909215355,130,test,"NGBoost (Poisson, counts)",570.0,633.0,561.0,642.0
+Hambantota,2026-08-09,2026-08-16,103.0,80.0,82.90778910577305,130,test,"NGBoost (Poisson, counts)",71.0,95.0,68.0,98.0
+Jaffna,2026-08-09,2026-08-16,45.0,9.0,33.876664332798505,130,test,"NGBoost (Poisson, counts)",27.0,41.0,25.0,44.0
+Kalmunai RDHS,2026-08-09,2026-08-16,37.0,55.0,35.40945195692476,130,test,"NGBoost (Poisson, counts)",28.0,43.0,26.0,45.0
+Kalutara,2026-08-09,2026-08-16,406.0,186.0,368.9748891056724,130,test,"NGBoost (Poisson, counts)",344.0,394.0,338.0,401.0
+Kandy,2026-08-09,2026-08-16,380.0,288.0,306.9410763913552,130,test,"NGBoost (Poisson, counts)",285.0,329.0,278.0,336.0
+Kegalle,2026-08-09,2026-08-16,141.0,99.0,130.89190301950507,130,test,"NGBoost (Poisson, counts)",116.0,146.0,112.0,150.0
+Kilinochchi,2026-08-09,2026-08-16,2.0,5.0,1.554506756878911,130,test,"NGBoost (Poisson, counts)",0.0,3.0,0.0,4.0
+Kurunegala,2026-08-09,2026-08-16,132.0,106.0,131.58490270097806,130,test,"NGBoost (Poisson, counts)",117.0,146.0,113.0,151.0
+Mannar,2026-08-09,2026-08-16,1.0,1.0,1.1437768394294892,130,test,"NGBoost (Poisson, counts)",0.0,3.0,0.0,3.0
+Matale,2026-08-09,2026-08-16,57.0,32.0,34.45039837866353,130,test,"NGBoost (Poisson, counts)",27.0,42.0,25.0,44.0
+Matara,2026-08-09,2026-08-16,204.0,114.0,162.41235870102244,130,test,"NGBoost (Poisson, counts)",146.0,179.0,142.0,184.0
+Moneragala,2026-08-09,2026-08-16,43.0,33.0,43.61980116876627,130,test,"NGBoost (Poisson, counts)",35.0,52.0,33.0,55.0
+Mullaitivu,2026-08-09,2026-08-16,6.0,2.0,4.520499503748815,130,test,"NGBoost (Poisson, counts)",2.0,7.0,1.0,8.0
+Nuwara Eliya,2026-08-09,2026-08-16,41.0,36.0,44.31676544262017,130,test,"NGBoost (Poisson, counts)",36.0,53.0,34.0,56.0
+Polonnaruwa,2026-08-09,2026-08-16,47.0,9.0,29.592700161284288,130,test,"NGBoost (Poisson, counts)",23.0,37.0,21.0,39.0
+Puttalam,2026-08-09,2026-08-16,101.0,73.0,82.2245686420524,130,test,"NGBoost (Poisson, counts)",71.0,94.0,68.0,97.0
+Ratnapura,2026-08-09,2026-08-16,174.0,92.0,139.1563300880517,130,test,"NGBoost (Poisson, counts)",124.0,154.0,120.0,159.0
+Trincomalee,2026-08-09,2026-08-16,16.0,5.0,16.085107676430262,130,test,"NGBoost (Poisson, counts)",11.0,21.0,10.0,23.0
+Vavuniya,2026-08-09,2026-08-16,8.0,8.0,4.574657252260624,130,test,"NGBoost (Poisson, counts)",2.0,7.0,1.0,8.0
+Ampara RDHS,2026-07-12,2026-07-19,64.0,77.0,69.13163495649715,26,validation,"NGBoost (Normal, log-growth)",63.09403191220872,75.73797504903878,61.47903515503234,77.72154570676366
+Anuradhapura,2026-07-12,2026-07-19,146.0,118.0,149.63430645362322,26,validation,"NGBoost (Normal, log-growth)",128.02036465458784,174.86909122068735,122.47794537457571,182.76313447661335
+Badulla,2026-07-12,2026-07-19,180.0,164.0,183.5177197856139,26,validation,"NGBoost (Normal, log-growth)",164.77524967479974,204.37920456564945,159.81715468779575,210.71117584426528
+Batticaloa,2026-07-12,2026-07-19,60.0,44.0,53.02986149521058,26,validation,"NGBoost (Normal, log-growth)",47.40772854894099,59.30495585514312,45.923131595750206,61.21293920323144
+Colombo,2026-07-12,2026-07-19,1625.0,1330.0,1507.2041757768404,26,validation,"NGBoost (Normal, log-growth)",1349.8676401058904,1682.8658120882897,1308.3288645248344,1736.2868631107397
+Galle,2026-07-12,2026-07-19,431.0,379.0,396.22126779222197,26,validation,"NGBoost (Normal, log-growth)",355.87333943268334,441.13091355405953,345.19978038989706,454.7620903420557
+Gampaha,2026-07-12,2026-07-19,1224.0,1501.0,1094.9377086903214,26,validation,"NGBoost (Normal, log-growth)",977.9245900684842,1225.9376758074554,947.0866558241266,1265.8456558808443
+Hambantota,2026-07-12,2026-07-19,226.0,215.0,217.39126161534696,26,validation,"NGBoost (Normal, log-growth)",195.20807130688027,242.08247276609612,189.33977518508425,249.5768597423481
+Jaffna,2026-07-12,2026-07-19,46.0,54.0,45.74151796888372,26,validation,"NGBoost (Normal, log-growth)",40.30180330187577,51.89767824583717,38.87826259917905,53.78597510615859
+Kalmunai RDHS,2026-07-12,2026-07-19,61.0,46.0,64.70941485600493,26,validation,"NGBoost (Normal, log-growth)",56.997138481833964,73.44724539420118,54.980356120435424,76.1293271416398
+Kalutara,2026-07-12,2026-07-19,644.0,592.0,558.5139276819053,26,validation,"NGBoost (Normal, log-growth)",501.6810496344937,621.7723036260466,486.64659547355006,640.9727691649855
+Kandy,2026-07-12,2026-07-19,555.0,681.0,641.1147647627059,26,validation,"NGBoost (Normal, log-growth)",580.8863425166327,707.5771584585355,564.864162318831,727.6401906716839
+Kegalle,2026-07-12,2026-07-19,203.0,247.0,224.88308858710243,26,validation,"NGBoost (Normal, log-growth)",201.938912595219,250.4213220971539,195.8693068658943,258.172801092886
+Kilinochchi,2026-07-12,2026-07-19,17.0,4.0,45.89136916503001,26,validation,"NGBoost (Normal, log-growth)",41.14717181419191,51.16958594196208,39.89178722673853,52.77120080321077
+Kurunegala,2026-07-12,2026-07-19,262.0,266.0,305.0579828767324,26,validation,"NGBoost (Normal, log-growth)",273.970006053108,339.6607514293119,265.7460557875355,350.1635386923359
+Mannar,2026-07-12,2026-07-19,11.0,13.0,20.431792809272686,26,validation,"NGBoost (Normal, log-growth)",18.903249453893313,22.077726282013884,18.490110323784684,22.56691344425386
+Matale,2026-07-12,2026-07-19,89.0,85.0,97.08352768211545,26,validation,"NGBoost (Normal, log-growth)",86.05084562794791,109.51447384768043,83.15537708758279,113.31685930842089
+Matara,2026-07-12,2026-07-19,615.0,552.0,585.7435561686974,26,validation,"NGBoost (Normal, log-growth)",525.2223553915302,653.225342534793,509.2304166003893,673.7304541334682
+Moneragala,2026-07-12,2026-07-19,99.0,106.0,109.61887807663044,26,validation,"NGBoost (Normal, log-growth)",94.81775856911106,126.7063497379405,90.99436479772828,132.0139755172766
+Mullaitivu,2026-07-12,2026-07-19,9.0,5.0,28.246033061150445,26,validation,"NGBoost (Normal, log-growth)",25.325936016553456,31.490029956620813,24.55249338671361,32.473463308228304
+Nuwara Eliya,2026-07-12,2026-07-19,68.0,112.0,69.93487646885896,26,validation,"NGBoost (Normal, log-growth)",61.65368128226409,79.31063134157229,59.48712516749209,82.1872350639756
+Polonnaruwa,2026-07-12,2026-07-19,79.0,64.0,85.66216933202834,26,validation,"NGBoost (Normal, log-growth)",67.13598893886282,109.22561953378327,62.64519065454524,117.0031282190339
+Puttalam,2026-07-12,2026-07-19,180.0,163.0,224.87246296647257,26,validation,"NGBoost (Normal, log-growth)",201.92936627676852,250.40949514895905,195.86004606385063,258.1606095123688
+Ratnapura,2026-07-12,2026-07-19,386.0,315.0,348.657585529017,26,validation,"NGBoost (Normal, log-growth)",315.8607618793275,384.849059987248,307.13603360595647,395.7741964067988
+Trincomalee,2026-07-12,2026-07-19,31.0,25.0,35.76222818801598,26,validation,"NGBoost (Normal, log-growth)",31.936896629606448,40.0318384438487,30.926768332955717,41.33004127613944
+Vavuniya,2026-07-12,2026-07-19,29.0,12.0,58.961719751726235,26,validation,"NGBoost (Normal, log-growth)",52.974786745466396,65.61272887542353,51.389034923415,67.62901446534588
+Ampara RDHS,2026-07-19,2026-07-26,77.0,36.0,78.84505609842606,52,validation,"NGBoost (Normal, log-growth)",67.37232700858355,92.24288439912911,64.43085011491101,96.43466533240043
+Anuradhapura,2026-07-19,2026-07-26,118.0,89.0,118.15633862024235,52,validation,"NGBoost (Normal, log-growth)",98.72446780181234,141.37461824914175,93.81649111318039,148.74434158751706
+Badulla,2026-07-19,2026-07-26,164.0,174.0,155.71643325890437,52,validation,"NGBoost (Normal, log-growth)",132.10583064408658,183.51513607291977,126.08461154790791,192.25739091655538
+Batticaloa,2026-07-19,2026-07-26,44.0,56.0,39.547737841545135,52,validation,"NGBoost (Normal, log-growth)",29.69073335462937,52.570536261515386,27.3607013833328,56.9717342615828
+Colombo,2026-07-19,2026-07-26,1330.0,1374.0,1526.3392524408941,52,validation,"NGBoost (Normal, log-growth)",1237.8006019865406,1882.083676506037,1166.408503355515,1997.2424192915971
+Galle,2026-07-19,2026-07-26,379.0,308.0,359.9226947780829,52,validation,"NGBoost (Normal, log-growth)",304.9833287784051,424.7264345934742,290.98944636724025,445.12979416398633
+Gampaha,2026-07-19,2026-07-26,1501.0,1320.0,1293.7014764665287,52,validation,"NGBoost (Normal, log-growth)",1122.6463337805014,1490.7967182119216,1078.403701587313,1551.9425280824992
+Hambantota,2026-07-19,2026-07-26,215.0,122.0,206.1469558604519,52,validation,"NGBoost (Normal, log-growth)",177.07297423014475,239.96784763528754,169.59978958743218,250.52353016391496
+Jaffna,2026-07-19,2026-07-26,54.0,35.0,49.70739081900298,52,validation,"NGBoost (Normal, log-growth)",43.411751180337035,56.895476204719095,41.77368321111418,59.112650832065945
+Kalmunai RDHS,2026-07-19,2026-07-26,46.0,43.0,42.79052645460567,52,validation,"NGBoost (Normal, log-growth)",32.14521209861732,56.85481780795462,29.628836781260013,61.60799980313949
+Kalutara,2026-07-19,2026-07-26,592.0,499.0,554.6913059315315,52,validation,"NGBoost (Normal, log-growth)",475.8843733622451,646.5213798908225,455.6503552411649,675.2128266051876
+Kandy,2026-07-19,2026-07-26,681.0,567.0,594.8483913983473,52,validation,"NGBoost (Normal, log-growth)",514.0533335219546,688.3175568911532,493.2107523166021,717.3884686194662
+Kegalle,2026-07-19,2026-07-26,247.0,201.0,245.4342247290098,52,validation,"NGBoost (Normal, log-growth)",216.99403809466932,277.58480740383675,209.54608248180517,287.4395966998636
+Kilinochchi,2026-07-19,2026-07-26,4.0,8.0,8.129796145715357,52,validation,"NGBoost (Normal, log-growth)",4.149450756103764,15.186809353117619,3.3778196531954268,18.039883838403085
+Kurunegala,2026-07-19,2026-07-26,266.0,235.0,292.51712332959136,52,validation,"NGBoost (Normal, log-growth)",248.2963864517267,344.58183098398416,237.01913319055913,360.95536271743634
+Mannar,2026-07-19,2026-07-26,13.0,4.0,14.310267181724123,52,validation,"NGBoost (Normal, log-growth)",12.406385822473526,16.484524485550743,11.911085906658867,17.155272365966148
+Matale,2026-07-19,2026-07-26,85.0,70.0,90.38494294589721,52,validation,"NGBoost (Normal, log-growth)",74.89392259385271,109.03789910710606,71.00105227049754,114.98730204456747
+Matara,2026-07-19,2026-07-26,552.0,380.0,515.1536265691492,52,validation,"NGBoost (Normal, log-growth)",441.953841706149,600.4499506186052,423.1594828205917,627.0999883554916
+Moneragala,2026-07-19,2026-07-26,106.0,74.0,103.00644878170341,52,validation,"NGBoost (Normal, log-growth)",86.59036269608137,122.49921903754195,82.42709923316764,128.6622019416984
+Mullaitivu,2026-07-19,2026-07-26,5.0,8.0,8.30951163124864,52,validation,"NGBoost (Normal, log-growth)",4.892005347330811,13.709254609148573,4.175409455821722,15.745922724020156
+Nuwara Eliya,2026-07-19,2026-07-26,112.0,78.0,114.67296588618137,52,validation,"NGBoost (Normal, log-growth)",102.8008376126114,127.90295824819088,99.66261756475734,131.92158857579918
+Polonnaruwa,2026-07-19,2026-07-26,64.0,53.0,63.71336261213041,52,validation,"NGBoost (Normal, log-growth)",48.019765968686734,84.43123815083503,44.30815364858687,91.42970554593964
+Puttalam,2026-07-19,2026-07-26,163.0,171.0,175.20229896808118,52,validation,"NGBoost (Normal, log-growth)",148.6559925326881,206.45744715070896,141.88610487461193,216.28669970311103
+Ratnapura,2026-07-19,2026-07-26,315.0,302.0,338.5117467921564,52,validation,"NGBoost (Normal, log-growth)",286.83153829301216,399.4711467459771,273.6678122914101,418.66412171939146
+Trincomalee,2026-07-19,2026-07-26,25.0,23.0,23.232185085438743,52,validation,"NGBoost (Normal, log-growth)",17.341430882371682,31.014884649993597,15.948954532541938,33.6451335914283
+Vavuniya,2026-07-19,2026-07-26,12.0,16.0,13.918227565041231,52,validation,"NGBoost (Normal, log-growth)",8.236002000057415,23.09630418886577,7.062185693374722,26.6046127125606
+Ampara RDHS,2026-07-26,2026-08-02,36.0,42.0,37.2826663034601,78,validation,"NGBoost (Normal, log-growth)",27.442479508440876,50.5272425129864,25.14495523623472,55.055270550661795
+Anuradhapura,2026-07-26,2026-08-02,89.0,56.0,80.99866295411256,78,validation,"NGBoost (Normal, log-growth)",63.55602016607887,103.15420140467671,59.324126297481804,110.46088868497763
+Badulla,2026-07-26,2026-08-02,174.0,116.0,156.03908751143507,78,validation,"NGBoost (Normal, log-growth)",126.26474698490836,192.7793111657904,118.90186484715481,204.6788277468508
+Batticaloa,2026-07-26,2026-08-02,56.0,44.0,42.90140876074103,78,validation,"NGBoost (Normal, log-growth)",37.26444041312934,49.368793333153256,35.8023913952724,51.36979495373913
+Colombo,2026-07-26,2026-08-02,1374.0,993.0,1348.6941979964806,78,validation,"NGBoost (Normal, log-growth)",1120.0887673899706,1623.9154224838428,1062.6342926160821,1711.6886945557467
+Galle,2026-07-26,2026-08-02,308.0,263.0,276.28616023447677,78,validation,"NGBoost (Normal, log-growth)",230.87501044783093,330.59077603525856,219.41156423706832,347.8365727257476
+Gampaha,2026-07-26,2026-08-02,1320.0,922.0,1184.4207691577465,78,validation,"NGBoost (Normal, log-growth)",979.4975748966112,1432.172744051627,928.137301666546,1511.394774625953
+Hambantota,2026-07-26,2026-08-02,122.0,114.0,129.06686728066273,78,validation,"NGBoost (Normal, log-growth)",103.59867692705727,160.73617545853853,97.33246530905348,171.04277255772143
+Jaffna,2026-07-26,2026-08-02,35.0,38.0,38.062809617378875,78,validation,"NGBoost (Normal, log-growth)",29.61996675510626,48.83359738459301,27.57745669479173,52.3953427521661
+Kalmunai RDHS,2026-07-26,2026-08-02,43.0,35.0,38.642361030517755,78,validation,"NGBoost (Normal, log-growth)",29.710266954593582,50.17235842975467,27.566156341982097,54.013239067250446
+Kalutara,2026-07-26,2026-08-02,499.0,379.0,447.68310717552845,78,validation,"NGBoost (Normal, log-growth)",374.2022822780433,535.5546537787351,355.6530165648352,563.4604736662578
+Kandy,2026-07-26,2026-08-02,567.0,428.0,556.5464032450919,78,validation,"NGBoost (Normal, log-growth)",465.23703818569413,665.7380888082284,442.18719250208875,700.4146550953718
+Kegalle,2026-07-26,2026-08-02,201.0,161.0,197.28234763293764,78,validation,"NGBoost (Normal, log-growth)",161.45075170635062,241.01728197538512,152.52620274932724,255.08585817121315
+Kilinochchi,2026-07-26,2026-08-02,8.0,2.0,8.503619745023046,78,validation,"NGBoost (Normal, log-growth)",6.714520129620706,10.707635308540247,6.27161215735725,11.420737836878358
+Kurunegala,2026-07-26,2026-08-02,235.0,171.0,230.6566041652143,78,validation,"NGBoost (Normal, log-growth)",192.7182060067321,276.02498056116536,183.141157448051,290.43284965230237
+Mannar,2026-07-26,2026-08-02,4.0,4.0,7.148377822517125,78,validation,"NGBoost (Normal, log-growth)",5.454315480732129,9.287080223565004,5.041648454490317,9.989726005845572
+Matale,2026-07-26,2026-08-02,70.0,38.0,63.18544519832418,78,validation,"NGBoost (Normal, log-growth)",48.91677205996633,81.53280821840585,45.482837065222355,87.62994678071018
+Matara,2026-07-26,2026-08-02,380.0,275.0,305.3110342530696,78,validation,"NGBoost (Normal, log-growth)",253.59026650510117,367.53902937135723,240.58610500875568,387.3768468463231
+Moneragala,2026-07-26,2026-08-02,74.0,69.0,78.30906541503826,78,validation,"NGBoost (Normal, log-growth)",59.8567954759275,102.35621203543087,55.45524279438952,110.41441513084594
+Mullaitivu,2026-07-26,2026-08-02,8.0,5.0,8.548683060217048,78,validation,"NGBoost (Normal, log-growth)",6.7511000708955695,10.763149404667827,6.306091961832501,11.479633251373286
+Nuwara Eliya,2026-07-26,2026-08-02,78.0,62.0,65.4719778202617,78,validation,"NGBoost (Normal, log-growth)",48.09487409168595,88.99969787244302,44.05351551292313,97.072787107367
+Polonnaruwa,2026-07-26,2026-08-02,53.0,35.0,47.98133978712568,78,validation,"NGBoost (Normal, log-growth)",35.86585730147955,64.0784173475758,33.01264138134207,69.53764570774995
+Puttalam,2026-07-26,2026-08-02,171.0,139.0,167.8344742221052,78,validation,"NGBoost (Normal, log-growth)",135.82374869022135,207.33429838552536,127.90783199593689,220.12760136058432
+Ratnapura,2026-07-26,2026-08-02,302.0,175.0,296.4235214494063,78,validation,"NGBoost (Normal, log-growth)",246.99701543726306,355.70086978826464,234.5435520517745,374.56006242073227
+Trincomalee,2026-07-26,2026-08-02,23.0,23.0,20.781887397364645,78,validation,"NGBoost (Normal, log-growth)",17.573462450028867,24.54454345106426,16.753128078164604,25.724902591956265
+Vavuniya,2026-07-26,2026-08-02,16.0,5.0,6.081040496664621,78,validation,"NGBoost (Normal, log-growth)",4.748002436522796,7.7232277768025375,4.41799667324133,8.254552473803432
+Ampara RDHS,2026-08-02,2026-08-09,42.0,21.0,29.310403660051595,104,test,"NGBoost (Normal, log-growth)",21.707616522556368,39.45869671626116,19.922649335696857,42.91033636776618
+Anuradhapura,2026-08-02,2026-08-09,56.0,52.0,48.60815013214912,104,test,"NGBoost (Normal, log-growth)",38.26597604158214,61.67432539885711,35.74787005554201,65.96901223973663
+Badulla,2026-08-02,2026-08-09,116.0,86.0,101.2019998129942,104,test,"NGBoost (Normal, log-growth)",82.00891750460698,124.83285121379357,77.25572767994926,132.47583717442785
+Batticaloa,2026-08-02,2026-08-09,44.0,40.0,37.921470935910406,104,test,"NGBoost (Normal, log-growth)",30.120597377272855,47.677757738713105,28.2085306755233,50.864330891672914
+Colombo,2026-08-02,2026-08-09,993.0,799.0,856.9372634323503,104,test,"NGBoost (Normal, log-growth)",693.2733050760896,1059.1824131854257,652.8392510555416,1124.7451228226498
+Galle,2026-08-02,2026-08-09,263.0,203.0,208.165613765318,104,test,"NGBoost (Normal, log-growth)",171.81909372428797,252.15636738392163,162.7160024885068,266.23260595673037
+Gampaha,2026-08-02,2026-08-09,922.0,720.0,795.656030330039,104,test,"NGBoost (Normal, log-growth)",666.7998544359286,949.375814617833,634.2202452244821,998.1193376352978
+Hambantota,2026-08-02,2026-08-09,114.0,103.0,88.84941602979427,104,test,"NGBoost (Normal, log-growth)",70.58845579333335,111.7684271358013,66.12291036236174,119.27067237271974
+Jaffna,2026-08-02,2026-08-09,38.0,45.0,33.375351053275175,104,test,"NGBoost (Normal, log-growth)",26.82240178195087,41.471702094478566,25.20328277999831,44.09605799995046
+Kalmunai RDHS,2026-08-02,2026-08-09,35.0,37.0,29.70508386795936,104,test,"NGBoost (Normal, log-growth)",23.8517950783653,36.93698492867316,22.40554992816709,39.28113751789336
+Kalutara,2026-08-02,2026-08-09,379.0,406.0,311.8323624909312,104,test,"NGBoost (Normal, log-growth)",257.47176502907087,377.6258317640632,243.85699591862306,398.6785415687371
+Kandy,2026-08-02,2026-08-09,428.0,380.0,353.8303771190179,104,test,"NGBoost (Normal, log-growth)",286.14134373677416,437.4760302641847,269.41840693465525,464.59181364029087
+Kegalle,2026-08-02,2026-08-09,161.0,141.0,132.99189066032838,104,test,"NGBoost (Normal, log-growth)",105.7594311132891,167.17087329434582,99.09999022246501,178.35892623793762
+Kilinochchi,2026-08-02,2026-08-09,2.0,2.0,7.794724074667267,104,test,"NGBoost (Normal, log-growth)",5.126188845285939,11.625659035804958,4.5293494270956405,12.988475962561758
+Kurunegala,2026-08-02,2026-08-09,171.0,132.0,146.40339413049918,104,test,"NGBoost (Normal, log-growth)",120.45866964044912,177.89015798963854,113.97232184440652,187.98253294906687
+Mannar,2026-08-02,2026-08-09,4.0,1.0,2.5894977625801916,104,test,"NGBoost (Normal, log-growth)",1.444101663927793,4.271668677996879,1.1918021462266413,4.8784932799476755
+Matale,2026-08-02,2026-08-09,38.0,57.0,34.62471262142835,104,test,"NGBoost (Normal, log-growth)",27.819196361157992,43.03731920400997,26.138225146889166,45.76503870426601
+Matara,2026-08-02,2026-08-09,275.0,204.0,230.32398387728537,104,test,"NGBoost (Normal, log-growth)",190.12702384828097,278.97498438178013,180.05957876324905,294.5424169346405
+Moneragala,2026-08-02,2026-08-09,69.0,43.0,53.49041347524869,104,test,"NGBoost (Normal, log-growth)",41.28678877086759,69.21590541651918,38.353967389813995,74.44868681961871
+Mullaitivu,2026-08-02,2026-08-09,5.0,6.0,6.778846491938353,104,test,"NGBoost (Normal, log-growth)",4.985786535258777,9.109022830785868,4.557279167640942,9.888503334056583
+Nuwara Eliya,2026-08-02,2026-08-09,62.0,41.0,49.615935575150054,104,test,"NGBoost (Normal, log-growth)",38.19276758330533,64.36851292020128,35.45154299087937,69.2843480394994
+Polonnaruwa,2026-08-02,2026-08-09,35.0,47.0,31.88435011208771,104,test,"NGBoost (Normal, log-growth)",25.56142395156382,39.712443891047364,24.001234002979764,42.2530843143774
+Puttalam,2026-08-02,2026-08-09,139.0,101.0,114.79546106448132,104,test,"NGBoost (Normal, log-growth)",91.26123676457082,144.33285346424947,85.50616438978457,154.00154119327945
+Ratnapura,2026-08-02,2026-08-09,175.0,174.0,154.9032410901035,104,test,"NGBoost (Normal, log-growth)",129.3585600414022,185.4535829076307,122.91054433972974,195.1561924525071
+Trincomalee,2026-08-02,2026-08-09,23.0,16.0,19.206498878045274,104,test,"NGBoost (Normal, log-growth)",15.354548045785013,23.965691241689505,14.402798455048563,25.508338604834233
+Vavuniya,2026-08-02,2026-08-09,5.0,8.0,8.117355745338177,104,test,"NGBoost (Normal, log-growth)",6.015763238697165,10.848486466668119,5.513522435498505,11.7620924945335
+Ampara RDHS,2026-08-09,2026-08-16,21.0,15.0,22.64951849162132,130,test,"NGBoost (Normal, log-growth)",18.04869362070504,28.361579120449825,16.915530085361613,30.21870925507978
+Anuradhapura,2026-08-09,2026-08-16,52.0,57.0,40.567971106314474,130,test,"NGBoost (Normal, log-growth)",30.15096250273816,54.46846977018815,27.70478148065164,59.195414588335304
+Badulla,2026-08-09,2026-08-16,86.0,55.0,71.53668718515122,130,test,"NGBoost (Normal, log-growth)",57.171404705874245,89.4494401398762,53.64342691456658,95.28918398589458
+Batticaloa,2026-08-09,2026-08-16,40.0,27.0,33.72010622127336,130,test,"NGBoost (Normal, log-growth)",26.30295636947096,43.15220680513666,24.50479528007572,46.265063795992425
+Colombo,2026-08-09,2026-08-16,799.0,584.0,673.0591952980878,130,test,"NGBoost (Normal, log-growth)",550.1155556070496,823.4292764798423,519.5354214856031,871.862402848934
+Galle,2026-08-09,2026-08-16,203.0,144.0,170.08810774724847,130,test,"NGBoost (Normal, log-growth)",139.41172872022935,207.46649264504748,131.76256025913358,219.4773737068719
+Gampaha,2026-08-09,2026-08-16,720.0,567.0,603.6790474792462,130,test,"NGBoost (Normal, log-growth)",493.3898570630645,738.5717068964207,465.9573014339313,782.0196665468383
+Hambantota,2026-08-09,2026-08-16,103.0,80.0,81.08807465791969,130,test,"NGBoost (Normal, log-growth)",64.38993296245218,102.05029682341954,60.30716062797852,108.91296827354618
+Jaffna,2026-08-09,2026-08-16,45.0,9.0,34.10650913555411,130,test,"NGBoost (Normal, log-growth)",26.672648470519025,43.53736999542162,24.867600500900362,46.645199393034005
+Kalmunai RDHS,2026-08-09,2026-08-16,37.0,55.0,31.914842745808986,130,test,"NGBoost (Normal, log-growth)",24.801623477939824,40.989097077849436,23.080742053220277,43.98976279829611
+Kalutara,2026-08-09,2026-08-16,406.0,186.0,315.7021400826661,130,test,"NGBoost (Normal, log-growth)",256.30902043665054,388.80462232817314,241.59715448089548,412.4436191041115
+Kandy,2026-08-09,2026-08-16,380.0,288.0,304.32311680719187,130,test,"NGBoost (Normal, log-growth)",247.10703650156796,374.7338242854265,232.93281230734797,397.4999143018038
+Kegalle,2026-08-09,2026-08-16,141.0,99.0,112.79496741895338,130,test,"NGBoost (Normal, log-growth)",89.81455632552935,141.59051779610365,84.18890088533166,151.00682806450376
+Kilinochchi,2026-08-09,2026-08-16,2.0,5.0,1.0962888323945101,130,test,"NGBoost (Normal, log-growth)",0.37847611970071027,2.187887556424293,0.22402438625511853,2.5901465021188104
+Kurunegala,2026-08-09,2026-08-16,132.0,106.0,111.06234121830713,130,test,"NGBoost (Normal, log-growth)",89.03044702927029,138.4857932366538,83.6132354140924,147.41612258259974
+Mannar,2026-08-09,2026-08-16,1.0,1.0,0.4956898798684858,130,test,"NGBoost (Normal, log-growth)",0.15446549577627253,0.9377696647718069,0.07275350118080344,1.0853702311654942
+Matale,2026-08-09,2026-08-16,57.0,32.0,41.80777591208989,130,test,"NGBoost (Normal, log-growth)",34.65728841687141,50.39217702467372,32.85686862835392,53.12507868506912
+Matara,2026-08-09,2026-08-16,204.0,114.0,167.40681052211127,130,test,"NGBoost (Normal, log-growth)",136.6674065723149,205.0099375470744,129.0223502581207,217.12291328320285
+Moneragala,2026-08-09,2026-08-16,43.0,33.0,42.48653261015641,130,test,"NGBoost (Normal, log-growth)",34.13354687685504,52.825437126588106,32.07210883512117,56.18046369168793
+Mullaitivu,2026-08-09,2026-08-16,6.0,2.0,3.2648432553540365,130,test,"NGBoost (Normal, log-growth)",1.8449665104368596,5.393357505619923,1.5364888318300218,6.1708922051968695
+Nuwara Eliya,2026-08-09,2026-08-16,41.0,36.0,40.31740141782996,130,test,"NGBoost (Normal, log-growth)",31.72217753644226,51.1703562674242,29.62863634130457,54.736325995680474
+Polonnaruwa,2026-08-09,2026-08-16,47.0,9.0,34.67686921555069,130,test,"NGBoost (Normal, log-growth)",27.50664960790997,43.650599580468516,25.74995976600092,46.58283781201348
+Puttalam,2026-08-09,2026-08-16,101.0,73.0,84.94254740050619,130,test,"NGBoost (Normal, log-growth)",70.33064973591802,102.54765421362808,66.66016779351482,108.16498871580107
+Ratnapura,2026-08-09,2026-08-16,174.0,92.0,137.20613194388244,130,test,"NGBoost (Normal, log-growth)",109.29598969647205,172.17887041454958,102.46352517125013,183.615156648437
+Trincomalee,2026-08-09,2026-08-16,16.0,5.0,14.168253427090113,130,test,"NGBoost (Normal, log-growth)",11.2380418125969,17.800059319262044,10.5155404482271,18.979601744514987
+Vavuniya,2026-08-09,2026-08-16,8.0,8.0,4.512946724005021,130,test,"NGBoost (Normal, log-growth)",2.9246922895635175,6.743939993088679,2.564258941229653,7.527040847159211
